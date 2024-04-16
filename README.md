@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Ricardo Novelo!
 
-I'm a iOS developer with a strong foundation in design, thanks to my previous experience as a Figma designer. Transitioning into mobile development, I'm currently honing my skills in Swift and SwiftUI, building applications that enhance everyday experiences through intuitive design.
+I'm a iOS developer with a strong foundation in design, thanks to my previous experience as a Figma designer. Transitioning into mobile development, I'm currently developing further my skills in Swift and SwiftUI, building applications that enhance everyday experiences through intuitive design.
 
 #### 🛠️ My Tech Stack
 - **Languages**: Swift, C, HTML, CSS
