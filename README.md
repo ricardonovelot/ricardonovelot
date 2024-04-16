@@ -17,4 +17,4 @@ I'm currently deepening my understanding of mobile development, focusing on adva
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/ricardo-nlo/)
 - **Email**: ricardonovelo97@gmail.com
 
-Feel free to check out my repositories and don't hesitate to reach out if you want to chat about technology, design, or anything in between!
+Feel free to check out my repositories and don't hesitate to reach out if you want to chat!
