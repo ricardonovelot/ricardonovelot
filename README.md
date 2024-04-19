@@ -8,7 +8,7 @@ I'm an iOS developer with a strong foundation in design, thanks to my experience
 - **Design**: Figma
 
 #### 🎯 Professional Goals
-My immediate goal is to master mobile app design, focusing on creating seamless and user-friendly interfaces. I aspire to join a forward-thinking company where I can contribute to impactful projects.
+My immediate goal is to master mobile app design, focusing on creating seamless and user-friendly interfaces. I aspire to join a company where I can contribute to impactful projects.
 
 #### 🤝 Let's Connect!
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/ricardo-nlo/)
