@@ -1,6 +1,6 @@
 ### 👋 Hi there!
 
-I'm an developer with a strong foundation in design, thanks to my experience as a Figma designer. Actively developing my skills in Swift and SwiftUI, I am building applications that enhance everyday experiences with intuitive and user-friendly designs.
+I'm an developer with a strong foundation in design, thanks to my experience as a Figma designer. Actively developing my skills in Swift and SwiftUI, I am building applications that enhance everyday experiences with intuitive designs.
 
 #### 🛠️ My Tech Stack
 - **Languages**: Swift, C, HTML, CSS
@@ -8,7 +8,7 @@ I'm an developer with a strong foundation in design, thanks to my experience as 
 - **Design**: Figma
 
 #### 🎯 Professional Goals
-My immediate goal is to master mobile app design, focusing on creating seamless and user-friendly interfaces. I aspire to join a company where I can contribute to impactful projects.
+My immediate goal is to master mobile app design, focusing on creating user-friendly interfaces. I aspire to join a company where I can contribute to impactful projects.
 
 #### 🤝 Let's Connect!
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/ricardo-nlo/)
