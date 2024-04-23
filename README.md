@@ -14,4 +14,4 @@ My immediate goal is to master mobile app design, focusing on creating user-frie
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/ricardo-nlo/)
 - **Email**: ricardonovelo97@gmail.com
 
-Feel free to check out my repositories and don't hesitate to reach out if you want to chat!
+Feel free to check out my repositories and don't hesitate to reach out!
