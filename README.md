@@ -1,6 +1,6 @@
 ### 👋 Hi there!
 
-I'm an developer with a strong foundation in design, thanks to my experience as a Figma designer. Currently expanding into mobile development, I am actively developing my skills in Swift and SwiftUI, building applications that enhance everyday experiences with intuitive and user-friendly designs.
+I'm an developer with a strong foundation in design, thanks to my experience as a Figma designer. Actively developing my skills in Swift and SwiftUI, I am building applications that enhance everyday experiences with intuitive and user-friendly designs.
 
 #### 🛠️ My Tech Stack
 - **Languages**: Swift, C, HTML, CSS
