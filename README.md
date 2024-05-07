@@ -1,6 +1,6 @@
 ### 👋 Hi there!
 
-I'm an developer with a strong foundation in design, thanks to my experience as a UI/UX designer. Actively developing my skills in Swift and SwiftUI, I am building applications that enhance everyday experiences with intuitive designs.
+I'm a Developer and Designer. Actively developing my skills in Swift and SwiftUI, I am building applications that enhance everyday experiences with intuitive designs.
 
 #### 🛠️ My Tech Stack
 - **Languages**: Swift, C, HTML, CSS
