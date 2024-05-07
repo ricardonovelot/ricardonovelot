@@ -12,6 +12,7 @@ My immediate goal is to master mobile design, focusing on creating user-friendly
 
 #### 🤝 Let's Connect!
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/ricardo-nlo/)
+- **Behance**: [Behance](https://www.behance.net/ricardolopezn/projects)
 - **Email**: ricardonovelo97@gmail.com
 
 Feel free to check out my repositories and don't hesitate to reach out!
