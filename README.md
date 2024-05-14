@@ -83,4 +83,4 @@ FriendFaces retrieves user data from the web and displays it in a user-friendly 
 
 
 
-Feel free to check out my repositories and don't hesitate to reach out!
+### Check out my [Projects Archive](https://github.com/ricardonovelot/FriendFaces/tree/main](https://github.com/ricardonovelot/Projects )
