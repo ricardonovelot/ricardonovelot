@@ -81,11 +81,7 @@ FriendFaces retrieves user data from the web and displays it in a user-friendly 
 
 </table>
 
-<h1 align="center">This is a Centered Title</h1>
-
-<p align="center"> 
-
-  # [Check out my Projects Archive Here!](https://github.com/ricardonovelot/FriendFaces/tree/main](https://github.com/ricardonovelot/Projects ).
+<h1 align="center"><a href="https://github.com/ricardonovelot/Projects">Check out my Projects Archive Here!</a></h1>
   
 </p>
 
