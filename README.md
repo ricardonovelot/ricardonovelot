@@ -50,6 +50,7 @@ BucketList app helps users catalog places they wish to visit with descriptions a
 - MVVM
 - Wikipedia API
 - MapKit
+- Documents Directory
 
 [Open Project](https://github.com/ricardonovelot/BucketList)
 
