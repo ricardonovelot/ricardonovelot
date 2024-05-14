@@ -81,7 +81,7 @@ FriendFaces retrieves user data from the web and displays it in a user-friendly 
 
 </table>
 
-<h1 align="center"><a href="https://github.com/ricardonovelot/Projects">Check out my Projects Archive Here!</a></h1>
+<h1 align="center">Check out my <a href="https://github.com/ricardonovelot/Projects">Projects Archive</a> Here! 👈🏻 </h1>
   
 </p>
 
