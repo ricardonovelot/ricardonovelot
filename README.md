@@ -15,6 +15,8 @@ My immediate goal is to master mobile design. I aspire to join a company where I
 - **Behance**: [Behance](https://www.behance.net/ricardolopezn/projects)
 - **Email**: ricardonovelo97@gmail.com
 
+<br>
+
 ## Recent Projects
 
 <table>
