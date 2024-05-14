@@ -28,11 +28,6 @@ San Pedro is an iOS app designed to provide information on local events
 
 <img src="https://github.com/ricardonovelot/EventosSanPedro/assets/84286086/f582f6ef-5b37-4587-81c0-c827469adf5a">
 
-### Features
-
-- **Events Feed:** Display events into categories.
-- **Events Details:** Details on event venues including navigation options and upcoming event schedules.
-
 ### Technical Highlights
 
 - SwiftUI
@@ -49,11 +44,6 @@ San Pedro is an iOS app designed to provide information on local events
 BucketList app helps users catalog places they wish to visit with descriptions and relevant information.
 
 ![export4D28C2BA-34FA-4888-8AA0-A2431419FD15](https://github.com/ricardonovelot/Projects/assets/84286086/bd65c0aa-914a-491a-a00a-972ebadb5620)
-
-### Features
-
-- **Place Addition and Editing** 
-- **Location Details** 
 
 ### Technical Highlights
 
@@ -73,17 +63,11 @@ FriendFaces retrieves user data from the web and displays it in a user-friendly 
 
 ![export933BF086-300A-462E-99A9-8E6B41FA2136](https://github.com/ricardonovelot/FriendFaces/assets/84286086/f37784ef-9b1b-4041-acd3-60b0e5da563a)
 
-### Features
-
-- **Contacts List:** 
-- **Contacts Details:** Users can tap on any profile to unveil a more detailed view.
-
 ### Technical Highlights
 
 - SwiftData.
 - URLSession
 - JSON parsing.
-- DateDecodingStrategy, ensuring that date data is consistently and correctly parsed.
 
 [Open Project
 ](https://github.com/ricardonovelot/FriendFaces/tree/main)
