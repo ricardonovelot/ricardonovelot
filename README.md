@@ -81,6 +81,10 @@ FriendFaces retrieves user data from the web and displays it in a user-friendly 
 
 </table>
 
-<p align="center">This text is centered in a GitHub README file.</p>
+<p align="center"> 
 
-# [Check out my Projects Archive Here!](https://github.com/ricardonovelot/FriendFaces/tree/main](https://github.com/ricardonovelot/Projects )
+  # [Check out my Projects Archive Here!](https://github.com/ricardonovelot/FriendFaces/tree/main](https://github.com/ricardonovelot/Projects ).
+  
+</p>
+
+
