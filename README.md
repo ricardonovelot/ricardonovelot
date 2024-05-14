@@ -4,7 +4,7 @@ I'm a Developer and Designer. I am actively developing my skills in Swift and Sw
 
 #### 🛠️ My Tech Stack
 - **Languages**: Swift, C, HTML, CSS
-- **Frameworks & Tools**: SwiftUI, Xcode, SwiftData
+- **Frameworks & Tools**: SwiftUI, SwiftData, MapKit
 - **Design**: Figma
 
 #### 🎯 Professional Goals
