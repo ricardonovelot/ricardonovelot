@@ -69,14 +69,13 @@
   
 <h3>CupcakeCorner<a href="https://github.com/ricardonovelot/CupcakeCorner"> 🔗</a></h3>
 
-<p>San Pedro is an iOS app designed to provide information on local events.</p>
+<p>CupcakeCorner is a test app that demostrates how users can make custom orders over the internet</p>
 
 <img src="https://github.com/ricardonovelot/EventosSanPedro/assets/84286086/f582f6ef-5b37-4587-81c0-c827469adf5a" width="200">
 <h4>Technical Highlights</h4>
 
 <p>
-  SwiftUI<br>
-  SwiftData
+  <code>URLSession</code><br>
 </p>
 <br>
 </td>
