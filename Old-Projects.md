@@ -98,6 +98,9 @@
 
 <td valign="top" align="center" width="380">
 
+<h3>GuessTheFlag<a href="https://github.com/ricardonovelot/GuessTheFlag"> 🔗</a></h3>
+<p>Guess The Flag challenges users to identify flags from different countries.</p>
+<img src="https://github.com/ricardonovelot/GuessTheFlag/assets/84286086/d12abbd2-581b-403f-b7cb-b6e6e3f5e833" width="200">
 
 <br>
 </td>
@@ -110,6 +113,10 @@
 <ol>
 <li>Instafilter<a href="https://github.com/ricardonovelot/Instafilter"> 🔗</a></li>
 <li>iExpense<a href="https://github.com/ricardonovelot/iExpense"> 🔗</a></li>
+<li>Edutainment<a href="https://github.com/ricardonovelot/Edutainment"> 🔗</a></li>
+<li>First Android App<a href="https://github.com/ricardonovelot/FirstAndroidApp"> 🔗</a></li>
+<li>Rock Paper Scissors</li>
+  
 </ol>
 
 <br>
