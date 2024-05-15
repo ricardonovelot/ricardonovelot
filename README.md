@@ -76,7 +76,7 @@ My immediate goal is to master mobile design. I aspire to join a company where I
 </table>
 
 <br>
-<h2 align="center">Check out my <a href="https://github.com/ricardonovelot/ricardonovelot/blob/main/Old-Projects.md">Old Projects</a> Here! 👈🏻</h2>
+<h3 align="center">Check out my <a href="https://github.com/ricardonovelot/ricardonovelot/blob/main/Old-Projects.md">Old Projects</a> Here! 👈🏻</h3>
 <br>
 <br>
 
