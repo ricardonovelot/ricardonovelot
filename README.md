@@ -15,12 +15,10 @@ My immediate goal is to master mobile design. I aspire to join a company where I
 - **Behance**: [Behance](https://www.behance.net/ricardolopezn/projects)
 <br>
 
-## Recent Projects
-
+#### Recent Projects
 <table>
-
 <tr>
-<td>
+<td valign="top">
 
 <h2>San Pedro - City Event Guide<a href="https://github.com/ricardonovelot/SanPedroEventGuide"> 🔗</a></h2>  
 
@@ -36,7 +34,7 @@ San Pedro is an iOS app designed to provide information on local events
 <br>
 </td>
   
-<td>
+<td valign="top">
   
 <h2>BucketList<a href="https://github.com/ricardonovelot/BucketList"> 🔗</a></h2>  
 
@@ -53,7 +51,7 @@ BucketList app helps users catalog places they wish to visit with descriptions a
 <br>
 </td>
 
-<td>
+<td valign="top">
 
 <h2>FriendFaces<a href="https://github.com/ricardonovelot/FriendFaces"> 🔗</a></h2>  
 
@@ -68,12 +66,9 @@ FriendFaces retrieves user data from the web and displays it in a user-friendly 
 - JSON parsing.
 <br>
 </td>
-  
-  
 </tr>
-
-
 </table>
+
 
 
 <br>
