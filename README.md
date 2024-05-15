@@ -25,12 +25,12 @@
 <!-- PROJECT 1 -->
 
 <td valign="top" align="center" width="380">
-<h4>San Pedro - Event Guide<a href="https://github.com/ricardonovelot/SanPedroEventGuide"> 🔗</a></h4>  
+<h2>San Pedro - Event Guide<a href="https://github.com/ricardonovelot/SanPedroEventGuide"> 🔗</a></h2>  
 
 <p>San Pedro is an iOS app designed to provide information on local events.</p>
 
 <img src="https://github.com/ricardonovelot/EventosSanPedro/assets/84286086/f582f6ef-5b37-4587-81c0-c827469adf5a" width="200">
-<h5>Technical Highlights</h5>
+<h3>Technical Highlights</h3>
 <p>
   SwiftUI<br>
   SwiftData
@@ -41,12 +41,12 @@
 <!-- PROJECT 2 -->
 
 <td valign="top" align="center" width="380">
-<h4>BucketList<a href="https://github.com/ricardonovelot/BucketList"> 🔗</a></h4>  
+<h2>BucketList<a href="https://github.com/ricardonovelot/BucketList"> 🔗</a></h2>  
 
 <p>BucketList app helps users catalog places they wish to visit with descriptions and relevant information.</p>
 
 <img src="https://github.com/ricardonovelot/Projects/assets/84286086/bd65c0aa-914a-491a-a00a-972ebadb5620" width="200">
-<h5>Technical Highlights</h5>
+<h3>Technical Highlights</h3>
 <p>
   MVVM<br>
   Wikipedia API<br>
@@ -59,12 +59,12 @@
 <!-- PROJECT 3 -->
 
 <td valign="top" align="center" width="380">
-<h4>FriendFaces<a href="https://github.com/ricardonovelot/FriendFaces"> 🔗</a></h4>  
+<h2>FriendFaces<a href="https://github.com/ricardonovelot/FriendFaces"> 🔗</a></h2>  
 
 <p>FriendFaces retrieves user data from the web and displays it in a user-friendly format.</p>
 
 <img src="https://github.com/ricardonovelot/FriendFaces/assets/84286086/f37784ef-9b1b-4041-acd3-60b0e5da563a" width="200">
-<h5>Technical Highlights</h5>
+<h3>Technical Highlights</h3>
 <p>
   SwiftData<br>
   <code>URLSession</code><br>
