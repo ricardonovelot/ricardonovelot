@@ -33,8 +33,8 @@
 <h5>Technical Highlights</h5>
 
 <p>
-  <small>SwiftUI<br>
-  SwiftData</small>
+  <small>SwiftUI<br></small>
+  SwiftData
 </p>
 <br>
 </td>
