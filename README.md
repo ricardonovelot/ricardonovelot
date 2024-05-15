@@ -14,8 +14,8 @@
 
 <h3>🤝 Let's Connect!</h3>
 <ul>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/ricardo-nlo/">LinkedIn</a></li>
-  <li>Behance: <a href="https://www.behance.net/ricardolopezn/projects">Behance</a></li>
+  <li><a href="https://www.linkedin.com/in/ricardo-nlo/">LinkedIn</a></li>
+  <li><a href="https://www.behance.net/ricardolopezn/projects">Behance</a></li>
 </ul>
 
 <h3>✨ Recent Projects</h3>
