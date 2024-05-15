@@ -31,7 +31,6 @@
 <p>Bookworms is designed to track books you've read and your thoughts on them.</p>
 
 <img src="https://github.com/ricardonovelot/BookWorms/assets/84286086/b792b98e-516b-4435-b305-e1f33ece8049" width="200">
-
 <h4>Technical Highlights</h4>
 
 <p>
