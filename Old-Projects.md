@@ -10,7 +10,7 @@
 <td valign="top" align="center">
 <h3>WeSplit<a href="https://github.com/ricardonovelot/WeSplit"> 🔗</a></h3>
 
-<p>WeSplit is a SwiftUI-based app designed to make bill splitting simple and efficient.</p>
+<p>WeSplit is designed to make bill splitting simple and efficient.</p>
 
 <img src="https://github.com/ricardonovelot/WeSplit/assets/84286086/3af0962b-8838-441b-8f25-139231efb13a" width="200">
 
@@ -28,7 +28,7 @@
 <td valign="top" align="center">
 <h3>BookWorms<a href="https://github.com/ricardonovelot/BookWorms"> 🔗</a></h3>
 
-<p>Bookworms is a SwiftUI-based app designed to track books you've read and your thoughts on them.</p>
+<p>Bookworms is designed to track books you've read and your thoughts on them.</p>
 
 <img src="https://github.com/ricardonovelot/BookWorms/assets/84286086/b792b98e-516b-4435-b305-e1f33ece8049" width="200">
 
