@@ -16,7 +16,7 @@ WeSplit is a SwiftUI-based app designed to make bill splitting simple and effici
 
 <img src="https://github.com/ricardonovelot/WeSplit/assets/84286086/3af0962b-8838-441b-8f25-139231efb13a" width="200">
 
-### Technical Highlights
+#### Technical Highlights
 
 <p>
   
@@ -36,7 +36,7 @@ Bookworms is a SwiftUI-based app designed to track books you've read and your th
 
 <img src="https://github.com/ricardonovelot/BookWorms/assets/84286086/b792b98e-516b-4435-b305-e1f33ece8049" width="200">
 
-### Technical Highlights
+#### Technical Highlights
 
 <p>
   
@@ -57,7 +57,7 @@ Moonshot dives into space history, showcasing information on space missions and 
 
 <img src="https://github.com/ricardonovelot/Moonshot/assets/84286086/63e9c612-1b0e-4d8c-b00b-a08ad800ab13" width="200">
 
-### Technical Highlights
+#### Technical Highlights
 
 <p>
   
@@ -83,7 +83,7 @@ San Pedro is an iOS app designed to provide information on local events
 
 <img src="https://github.com/ricardonovelot/EventosSanPedro/assets/84286086/f582f6ef-5b37-4587-81c0-c827469adf5a" width="200">
 
-### Technical Highlights
+#### Technical Highlights
 
 <p>
   
@@ -104,7 +104,7 @@ BucketList app helps users catalog places they wish to visit with descriptions a
 
 <img src="https://github.com/ricardonovelot/Projects/assets/84286086/bd65c0aa-914a-491a-a00a-972ebadb5620" width="200">
 
-### Technical Highlights
+#### Technical Highlights
 
 <p>
 
@@ -126,7 +126,7 @@ FriendFaces retrieves user data from the web and displays it in a user-friendly 
 
 <img src="https://github.com/ricardonovelot/FriendFaces/assets/84286086/f37784ef-9b1b-4041-acd3-60b0e5da563a" width="200">
 
-### Technical Highlights
+#### Technical Highlights
 
 <p>
   
