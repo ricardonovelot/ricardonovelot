@@ -25,7 +25,7 @@
 <!-- PROJECT 1 -->
 
 <td valign="top" align="center" width="380">
-<h2>San Pedro - Event Guide<a href="https://github.com/ricardonovelot/SanPedroEventGuide"> 🔗</a></h2>  
+<h3>San Pedro - Event Guide<a href="https://github.com/ricardonovelot/SanPedroEventGuide"> 🔗</a></h3>  
 
 <p>San Pedro is an iOS app designed to provide information on local events.</p>
 
@@ -41,7 +41,7 @@
 <!-- PROJECT 2 -->
 
 <td valign="top" align="center" width="380">
-<h2>BucketList<a href="https://github.com/ricardonovelot/BucketList"> 🔗</a></h2>  
+<h3>BucketList<a href="https://github.com/ricardonovelot/BucketList"> 🔗</a></h3>  
 
 <p>BucketList app helps users catalog places they wish to visit with descriptions and relevant information.</p>
 
@@ -59,7 +59,7 @@
 <!-- PROJECT 3 -->
 
 <td valign="top" align="center" width="380">
-<h2>FriendFaces<a href="https://github.com/ricardonovelot/FriendFaces"> 🔗</a></h2>  
+<h3>FriendFaces<a href="https://github.com/ricardonovelot/FriendFaces"> 🔗</a></h3>  
 
 <p>FriendFaces retrieves user data from the web and displays it in a user-friendly format.</p>
 
