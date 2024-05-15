@@ -67,7 +67,7 @@
 
 <!-- PROJECT 4 -->
   
-<td valign="top" align="center">
+<td valign="top" align="center" width="400">
   
 <h3>San Pedro - City Event Guide<a href="https://github.com/ricardonovelot/SanPedroEventGuide"> 🔗</a></h3>
 
@@ -86,7 +86,7 @@
 
 <!-- PROJECT 5 -->
   
-<td valign="top" align="center">
+<td valign="top" align="center" width="400">
 
 <h3>BucketList<a href="https://github.com/ricardonovelot/BucketList"> 🔗</a></h3>
 
@@ -106,7 +106,7 @@
 
 <!-- PROJECT 6 -->
 
-<td valign="top" align="center">
+<td valign="top" align="center" width="400">
 
 <h3>FriendFaces<a href="https://github.com/ricardonovelot/FriendFaces"> 🔗</a></h3>
 
