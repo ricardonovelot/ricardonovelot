@@ -13,9 +13,8 @@ My immediate goal is to master mobile design. I aspire to join a company where I
 #### 🤝 Let's Connect!
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/ricardo-nlo/)
 - **Behance**: [Behance](https://www.behance.net/ricardolopezn/projects)
-<br>
 
-#### Recent Projects
+#### ✨ Recent Projects
 <table>
 <tr>
 <td valign="top">
