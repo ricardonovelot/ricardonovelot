@@ -19,7 +19,7 @@ My immediate goal is to master mobile design. I aspire to join a company where I
 <tr>
 <td valign="top">
 
-<h3>San Pedro - City Event Guide<a href="https://github.com/ricardonovelot/SanPedroEventGuide"> 🔗</a></h3>  
+<h3>San Pedro - Event Guide<a href="https://github.com/ricardonovelot/SanPedroEventGuide"> 🔗</a></h3>  
 
 San Pedro is an iOS app designed to provide information on local events
 
