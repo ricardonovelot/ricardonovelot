@@ -104,18 +104,8 @@
 
 <td valign="top" align="center" width="380">
 
-<h3>FriendFaces<a href="https://github.com/ricardonovelot/FriendFaces"> 🔗</a></h3>
+<h3>Instafilter<a href="https://github.com/ricardonovelot/Instafilter"> 🔗</a></h3>
 
-<p>FriendFaces retrieves user data from the web and displays it in a user-friendly format.</p>
-
-<img src="https://github.com/ricardonovelot/FriendFaces/assets/84286086/f37784ef-9b1b-4041-acd3-60b0e5da563a" width="200">
-<h4>Technical Highlights</h4>
-
-<p>
-  SwiftData<br>
-  <code>URLSession</code><br>
-  JSON parsing
-</p>
 <br>
 </td>
   
