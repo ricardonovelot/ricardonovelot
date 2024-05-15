@@ -60,9 +60,9 @@
 <br>
 </td>  
 </tr>
-
+</table>
 <!-- ROW 2 -->
-
+<table>
 <tr>
 
 <!-- PROJECT 4 -->
