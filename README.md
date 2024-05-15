@@ -1,4 +1,4 @@
-#### 👋 Hi there!
+### 👋 Hi there!
 
 I'm a Developer and Designer. I am actively developing my skills in Swift and SwiftUI, building applications with intuitive designs.
 
