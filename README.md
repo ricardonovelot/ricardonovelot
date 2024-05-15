@@ -19,7 +19,7 @@ My immediate goal is to master mobile design. I aspire to join a company where I
 <tr>
 <td valign="top">
 
-<h2>San Pedro - City Event Guide<a href="https://github.com/ricardonovelot/SanPedroEventGuide"> 🔗</a></h2>  
+<h3>San Pedro - City Event Guide<a href="https://github.com/ricardonovelot/SanPedroEventGuide"> 🔗</a></h3>  
 
 San Pedro is an iOS app designed to provide information on local events
 
@@ -35,7 +35,7 @@ San Pedro is an iOS app designed to provide information on local events
   
 <td valign="top">
   
-<h2>BucketList<a href="https://github.com/ricardonovelot/BucketList"> 🔗</a></h2>  
+<h3>BucketList<a href="https://github.com/ricardonovelot/BucketList"> 🔗</a></h3>  
 
 BucketList app helps users catalog places they wish to visit with descriptions and relevant information.
 
@@ -52,7 +52,7 @@ BucketList app helps users catalog places they wish to visit with descriptions a
 
 <td valign="top">
 
-<h2>FriendFaces<a href="https://github.com/ricardonovelot/FriendFaces"> 🔗</a></h2>  
+<h3>FriendFaces<a href="https://github.com/ricardonovelot/FriendFaces"> 🔗</a></h3>  
 
 FriendFaces retrieves user data from the web and displays it in a user-friendly format.
 
