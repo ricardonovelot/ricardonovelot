@@ -101,10 +101,10 @@
 
 </table>
 
-<h2>Undocumented Projects</h2>
+<h3>Undocumented Projects</h3>
 <ol>
-<li><h3>Instafilter<a href="https://github.com/ricardonovelot/Instafilter"> 🔗</a></h3></li>
-<li><h3>iExpense<a href="https://github.com/ricardonovelot/iExpense"> 🔗</a></h3></li>
+<li>Instafilter<a href="https://github.com/ricardonovelot/Instafilter"> 🔗</a></li>
+<li>iExpense<a href="https://github.com/ricardonovelot/iExpense"> 🔗</a></li>
 </ol>
 
 <br>
