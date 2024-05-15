@@ -77,6 +77,6 @@
 </table>
 
 <br>
-<h3 align="center">Check out my <a href="https://github.com/ricardonovelot/ricardonovelot/blob/main/Old-Projects.md">Old Projects</a> Here! 👈🏻</h3>
+<h3 align="center">Check out my <a href="https://github.com/ricardonovelot/ricardonovelot/blob/main/Old-Projects.md">More Projects</a> Here! 👈🏻</h3>
 <br>
 <br>
