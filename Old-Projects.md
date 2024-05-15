@@ -7,7 +7,7 @@
 
 <!-- PROJECT 1 -->
   
-<td valign="top" align="center" width="500">
+<td valign="top" align="center" width="380">
 <h3>WeSplit<a href="https://github.com/ricardonovelot/WeSplit"> 🔗</a></h3>
 
 <p>WeSplit is designed to make bill splitting simple and efficient.</p>
@@ -25,7 +25,7 @@
 
 <!-- PROJECT 2 -->
   
-<td valign="top" align="center" width="500">
+<td valign="top" align="center" width="380">
 <h3>BookWorms<a href="https://github.com/ricardonovelot/BookWorms"> 🔗</a></h3>
 
 <p>Bookworms is designed to track books you've read and your thoughts on them.</p>
@@ -43,7 +43,7 @@
 
 <!-- PROJECT 3 -->
 
-<td valign="top" align="center" width="500">
+<td valign="top" align="center" width="380">
 
 <h3>MoonShot<a href="https://github.com/ricardonovelot/Moonshot"> 🔗</a></h3>
 
@@ -67,7 +67,7 @@
 
 <!-- PROJECT 4 -->
   
-<td valign="top" align="center" width="500">
+<td valign="top" align="center" width="380">
   
 <h3>San Pedro - City Event Guide<a href="https://github.com/ricardonovelot/SanPedroEventGuide"> 🔗</a></h3>
 
@@ -86,7 +86,7 @@
 
 <!-- PROJECT 5 -->
   
-<td valign="top" align="center" width="500">
+<td valign="top" align="center" width="380">
 
 <h3>BucketList<a href="https://github.com/ricardonovelot/BucketList"> 🔗</a></h3>
 
@@ -106,7 +106,7 @@
 
 <!-- PROJECT 6 -->
 
-<td valign="top" align="center" width="500">
+<td valign="top" align="center" width="380">
 
 <h3>FriendFaces<a href="https://github.com/ricardonovelot/FriendFaces"> 🔗</a></h3>
 
