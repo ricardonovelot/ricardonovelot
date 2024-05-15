@@ -71,7 +71,7 @@
 
 <p>CupcakeCorner is a test app that demostrates how users can make custom orders over the internet</p>
 
-<img src="https://github.com/ricardonovelot/EventosSanPedro/assets/84286086/f582f6ef-5b37-4587-81c0-c827469adf5a" width="200">
+<img src="https://github.com/ricardonovelot/CupcakeCorner/assets/84286086/bb06f24a-c1c0-4747-9a6e-aab632c614ba" width="200">
 <h4>Technical Highlights</h4>
 
 <p>
