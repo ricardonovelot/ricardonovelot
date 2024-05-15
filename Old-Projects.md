@@ -84,7 +84,7 @@
   
 <td valign="top" align="center" width="380">
 
-<h3>iExpense<a href="https://github.com/ricardonovelot/iExpense"> 🔗</a></h3>
+
 
 <br>
 </td>
@@ -93,7 +93,6 @@
 
 <td valign="top" align="center" width="380">
 
-<h3>Instafilter<a href="https://github.com/ricardonovelot/Instafilter"> 🔗</a></h3>
 
 <br>
 </td>
@@ -101,6 +100,12 @@
 </tr>
 
 </table>
+
+<h2>Undocumented Projects</h2>
+<ol>
+<li><h3>Instafilter<a href="https://github.com/ricardonovelot/Instafilter"> 🔗</a></h3></li>
+<li><h3>iExpense<a href="https://github.com/ricardonovelot/iExpense"> 🔗</a></h3></li>
+</ol>
 
 <br>
 <h3 align="center"><a href="https://github.com/ricardonovelot">Go Back to Recent Projects ↩</a></h3>
