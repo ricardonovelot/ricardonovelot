@@ -67,7 +67,7 @@
   
 <td valign="top" align="center" width="380">
   
-<h3>San Pedro - City Event Guide<a href="https://github.com/ricardonovelot/SanPedroEventGuide"> 🔗</a></h3>
+<h3>CupcakeCorner<a href="https://github.com/ricardonovelot/CupcakeCorner"> 🔗</a></h3>
 
 <p>San Pedro is an iOS app designed to provide information on local events.</p>
 
@@ -85,18 +85,8 @@
   
 <td valign="top" align="center" width="380">
 
-<h3>BucketList<a href="https://github.com/ricardonovelot/BucketList"> 🔗</a></h3>
+<h3>iExpense<a href="https://github.com/ricardonovelot/iExpense"> 🔗</a></h3>
 
-<p>BucketList app helps users catalog places they wish to visit with descriptions and relevant information.</p>
-
-<img src="https://github.com/ricardonovelot/Projects/assets/84286086/bd65c0aa-914a-491a-a00a-972ebadb5620" width="200">
-<h4>Technical Highlights</h4>
-
-<p>
-  MVVM<br>
-  Wikipedia API<br>
-  MapKit
-</p>
 <br>
 </td>
 
