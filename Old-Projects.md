@@ -1,4 +1,4 @@
-<h3 >Back to <a href="https://github.com/ricardonovelot">Recent Projects</a> ✨</h3>
+<h3 ><a href="https://github.com/ricardonovelot">↩ Back to Recent Projects</a> ✨</h3>
 <br>
 
 # Old Projects
