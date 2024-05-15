@@ -23,8 +23,8 @@ My immediate goal is to master mobile design. I aspire to join a company where I
 
 <tr>
 <td>
-  
-## San Pedro - City Event Guide
+
+<h2><a href="https://github.com/ricardonovelot/SanPedroEventGuide">San Pedro - City Event Guide</a> 🔗</h2>  
 
 San Pedro is an iOS app designed to provide information on local events
 
@@ -35,13 +35,11 @@ San Pedro is an iOS app designed to provide information on local events
 - SwiftUI
 - SwiftData
 
-[Open Project](https://github.com/ricardonovelot/SanPedroEventGuide/tree/main)
-
 </td>
   
 <td>
-
-## BucketList
+  
+<h2><a href="https://github.com/ricardonovelot/BucketList">BucketList</a> 🔗</h2>  
 
 BucketList app helps users catalog places they wish to visit with descriptions and relevant information.
 
@@ -54,13 +52,11 @@ BucketList app helps users catalog places they wish to visit with descriptions a
 - MapKit
 - Documents Directory
 
-[Open Project](https://github.com/ricardonovelot/BucketList)
-
 </td>
 
 <td>
 
-## FriendFaces
+<h2><a href="https://github.com/ricardonovelot/FriendFacet">FriendFaces</a> 🔗</h2>  
 
 FriendFaces retrieves user data from the web and displays it in a user-friendly format.
 
@@ -71,9 +67,6 @@ FriendFaces retrieves user data from the web and displays it in a user-friendly 
 - SwiftData.
 - URLSession
 - JSON parsing.
-
-[Open Project
-](https://github.com/ricardonovelot/FriendFaces/tree/main)
 
 </td>
   
