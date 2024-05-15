@@ -75,8 +75,8 @@
 <h4>Technical Highlights</h4>
 
 <p>
-  <code>SwiftUI</code><br>
-  <code>SwiftData</code>
+  SwiftUI<br>
+  SwiftData
 </p>
 <br>
 </td>
@@ -93,7 +93,7 @@
 <h4>Technical Highlights</h4>
 
 <p>
-  <code>MVVM</code><br>
+  MVVM<br>
   Wikipedia API<br>
   MapKit
 </p>
@@ -112,7 +112,7 @@
 <h4>Technical Highlights</h4>
 
 <p>
-  <code>SwiftData</code><br>
+  SwiftData<br>
   <code>URLSession</code><br>
   JSON parsing
 </p>
