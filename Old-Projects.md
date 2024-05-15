@@ -129,5 +129,5 @@
 </table>
 
 <br>
-<h3 align="center">Check out my <a href="https://github.com/ricardonovelot">Recent Projects</a> ✨</h3>
+<h3 align="center"><a href="https://github.com/ricardonovelot">Go Back to Recent Projects ✨</a></h3>
 <br>
