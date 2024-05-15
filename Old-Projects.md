@@ -7,12 +7,12 @@
 
 <!-- PROJECT 1 -->
   
-<td valign="top" align="center">
+<td valign="top" align="center" width="300">
 <h3>WeSplit<a href="https://github.com/ricardonovelot/WeSplit"> 🔗</a></h3>
 
 <p>WeSplit is designed to make bill splitting simple and efficient.</p>
 
-<img src="https://github.com/ricardonovelot/WeSplit/assets/84286086/3af0962b-8838-441b-8f25-139231efb13a" width="200">
+<img src="https://github.com/ricardonovelot/WeSplit/assets/84286086/3af0962b-8838-441b-8f25-139231efb13a" >
 
 <h4>Technical Highlights</h4>
 
@@ -25,7 +25,7 @@
 
 <!-- PROJECT 2 -->
   
-<td valign="top" align="center">
+<td valign="top" align="center" width="300">
 <h3>BookWorms<a href="https://github.com/ricardonovelot/BookWorms"> 🔗</a></h3>
 
 <p>Bookworms is designed to track books you've read and your thoughts on them.</p>
@@ -43,7 +43,7 @@
 
 <!-- PROJECT 3 -->
 
-<td valign="top" align="center">
+<td valign="top" align="center" width="300">
 
 <h3>MoonShot<a href="https://github.com/ricardonovelot/Moonshot"> 🔗</a></h3>
 
