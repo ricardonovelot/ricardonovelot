@@ -55,7 +55,7 @@ BucketList app helps users catalog places they wish to visit with descriptions a
 
 <td>
 
-<h2>FriendFaces<a href="https://github.com/ricardonovelot/FriendFacet"> 🔗</a></h2>  
+<h2>FriendFaces<a href="https://github.com/ricardonovelot/FriendFaces"> 🔗</a></h2>  
 
 FriendFaces retrieves user data from the web and displays it in a user-friendly format.
 
