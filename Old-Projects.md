@@ -116,6 +116,8 @@
 <li>Edutainment<a href="https://github.com/ricardonovelot/Edutainment"> 🔗</a></li>
 <li>First Android App<a href="https://github.com/ricardonovelot/FirstAndroidApp"> 🔗</a></li>
 <li>Rock Paper Scissors</li>
+<li>BetterRest</li>
+<li>Word Scramble</li>
   
 </ol>
 
