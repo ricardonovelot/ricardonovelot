@@ -59,8 +59,12 @@ Moonshot dives into space history, showcasing information on space missions and 
 
 ### Technical Highlights
 
-<p>Generics for Codable Data<br>
-`NavigationLink` & `ScrollView`</p>
+<p>
+  
+  Generics for Codable Data<br>
+`NavigationLink` & `ScrollView`
+
+</p>
 <br>
 </td>  
 </tr>
@@ -81,8 +85,12 @@ San Pedro is an iOS app designed to provide information on local events
 
 ### Technical Highlights
 
-<p>`SwiftUI`<br>
-`SwiftData`</p>
+<p>
+  
+SwiftUI<br>
+SwiftData
+
+</p>
 <br>
 </td>
 
@@ -98,9 +106,13 @@ BucketList app helps users catalog places they wish to visit with descriptions a
 
 ### Technical Highlights
 
-<p>`MVVM`<br>
+<p>
+
+MVVM<br>
 Wikipedia API<br>
-MapKit</p>
+MapKit
+
+</p>
 <br>
 </td>
 
@@ -116,9 +128,13 @@ FriendFaces retrieves user data from the web and displays it in a user-friendly 
 
 ### Technical Highlights
 
-<p>`SwiftData`<br>
+<p>
+  
+`SwiftData`<br>
 `URLSession`<br>
-JSON parsing</p>
+JSON parsing
+
+</p>
 <br>
 </td>
   
