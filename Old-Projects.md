@@ -43,23 +43,23 @@
 
 <td valign="top" align="center" width="380">
 
-<h3>MoonShot<a href="https://github.com/ricardonovelot/Moonshot"> 🔗</a></h3>
-
-<p>Moonshot dives into space history, showcasing information on space missions and astronauts in an engaging way.</p>
-
-<img src="https://github.com/ricardonovelot/Moonshot/assets/84286086/63e9c612-1b0e-4d8c-b00b-a08ad800ab13" width="200">
+<h3>Instafilter<a href="https://github.com/ricardonovelot/Instafilter"> 🔗</a></h3>
+<p>Instafilter allows users to edit photos with filters through a user-friendly interface.</p>
+<img src="https://github.com/ricardonovelot/Instafilter/assets/84286086/36fc8c38-7cf3-4747-9e7e-82b239fae6ec" width="200">
 <h4>Technical Highlights</h4>
-
 <p>
-  Generics for Codable Data<br>
-  <code>NavigationLink</code> & <code>ScrollView</code>
+  CoreImage<br>
+  StoreKit<br>
+  PhotosUI
 </p>
 <br>
 </td>  
 </tr>
 </table>
 <br>
-<!-- ROW 2 -->
+
+<!-- TABLE 2 -->
+
 <table>
 <tr>
 
@@ -98,15 +98,52 @@
 
 <td valign="top" align="center" width="380">
 
+<h3>MoonShot<a href="https://github.com/ricardonovelot/Moonshot"> 🔗</a></h3>
+<p>Moonshot dives into space history, showcasing information on space missions and astronauts in an engaging way.</p>
+<img src="https://github.com/ricardonovelot/Moonshot/assets/84286086/63e9c612-1b0e-4d8c-b00b-a08ad800ab13" width="200">
+<h4>Technical Highlights</h4>
+<p>
+  Generics for Codable Data<br>
+  <code>NavigationLink</code> & <code>ScrollView</code>
+</p>
+
+<br>
+</td>
+</tr>
+</table>
+
+<!-- TABLE 3 -->
+
+<table>
+<tr>
+
+<!-- PROJECT 7 -->
+  
 <h3>GuessTheFlag<a href="https://github.com/ricardonovelot/GuessTheFlag"> 🔗</a></h3>
 <p>Guess The Flag challenges users to identify flags from different countries.</p>
 <img src="https://github.com/ricardonovelot/GuessTheFlag/assets/84286086/d12abbd2-581b-403f-b7cb-b6e6e3f5e833" width="200">
 
 <br>
 </td>
-  
-</tr>
 
+<!-- PROJECT 8 -->
+  
+<td valign="top" align="center" width="380">
+
+
+
+<br>
+</td>
+
+<!-- PROJECT 9 -->
+
+<td valign="top" align="center" width="380">
+
+
+
+<br>
+</td>
+</tr>
 </table>
 
 <h3>Undocumented Projects</h3>
