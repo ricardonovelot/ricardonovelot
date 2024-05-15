@@ -68,15 +68,13 @@
 <td valign="top" align="center" width="380">
   
 <h3>CupcakeCorner<a href="https://github.com/ricardonovelot/CupcakeCorner"> 🔗</a></h3>
-
 <p>CupcakeCorner is a test app that demostrates how users can make custom orders over the internet</p>
-
 <img src="https://github.com/ricardonovelot/CupcakeCorner/assets/84286086/bb06f24a-c1c0-4747-9a6e-aab632c614ba" width="200">
 <h4>Technical Highlights</h4>
-
 <p>
   <code>URLSession</code><br>
 </p>
+
 <br>
 </td>
 
@@ -84,7 +82,14 @@
   
 <td valign="top" align="center" width="380">
 
-
+<h3>HabitTracking<a href="https://github.com/ricardonovelot/HabitTracking"> 🔗</a></h3>
+<p>HabitTracking it's a tool for setting personal goals, tracking progress, and encourage positive habit formation.</p>
+<img src="https://github.com/ricardonovelot/HabitTracking/assets/84286086/f017d372-8d37-4ad2-8480-7f9600f79d8d" width="200">
+<h4>Technical Highlights</h4>
+<p>
+  <code>Codable</code><br>
+  <code>UserDefaults</code>
+</p>
 
 <br>
 </td>
