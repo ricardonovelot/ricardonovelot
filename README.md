@@ -30,7 +30,7 @@
 <p>San Pedro is an iOS app designed to provide information on local events.</p>
 
 <img src="https://github.com/ricardonovelot/EventosSanPedro/assets/84286086/f582f6ef-5b37-4587-81c0-c827469adf5a" width="200">
-<h3>Technical Highlights</h3>
+<h4>Technical Highlights</h4>
 <p>
   SwiftUI<br>
   SwiftData
@@ -46,7 +46,7 @@
 <p>BucketList app helps users catalog places they wish to visit with descriptions and relevant information.</p>
 
 <img src="https://github.com/ricardonovelot/Projects/assets/84286086/bd65c0aa-914a-491a-a00a-972ebadb5620" width="200">
-<h3>Technical Highlights</h3>
+<h4>Technical Highlights</h4>
 <p>
   MVVM<br>
   Wikipedia API<br>
@@ -64,7 +64,7 @@
 <p>FriendFaces retrieves user data from the web and displays it in a user-friendly format.</p>
 
 <img src="https://github.com/ricardonovelot/FriendFaces/assets/84286086/f37784ef-9b1b-4041-acd3-60b0e5da563a" width="200">
-<h3>Technical Highlights</h3>
+<h4>Technical Highlights</h4>
 <p>
   SwiftData<br>
   <code>URLSession</code><br>
