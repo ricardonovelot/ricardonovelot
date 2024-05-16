@@ -4,10 +4,9 @@
 
 <table>
 <tr>
-<!-- PROJECT 1 -->
 <td valign="top" align="center" width="380">
 
-  
+<!-- PROJECT 1 -->
 <h3>WeSplit<a href="https://github.com/ricardonovelot/WeSplit"> 🔗</a></h3>
 <p>WeSplit is designed to make bill splitting simple and efficient.</p>
 <img src="https://github.com/ricardonovelot/WeSplit/assets/84286086/3af0962b-8838-441b-8f25-139231efb13a" width="200">
@@ -20,10 +19,9 @@
 
 <br>
 </td>
-<!-- PROJECT 2 -->
 <td valign="top" align="center" width="380">
 
-  
+<!-- PROJECT 2 -->  
 <h3>BookWorms<a href="https://github.com/ricardonovelot/BookWorms"> 🔗</a></h3>
 <p>Bookworms is designed to track books you've read and your thoughts on them.</p>
 <img src="https://github.com/ricardonovelot/BookWorms/assets/84286086/b792b98e-516b-4435-b305-e1f33ece8049" width="200">
@@ -34,11 +32,10 @@
   <code>@Query</code> & <code>SortDescriptor</code>
 </p>
 
-
 </td>
-<!-- PROJECT 3 -->
 <td valign="top" align="center" width="380">
-
+  
+<!-- PROJECT 3 -->
 <h3>Instafilter<a href="https://github.com/ricardonovelot/Instafilter"> 🔗</a></h3>
 <p>Instafilter allows users to edit photos with filters through a user-friendly interface.</p>
 <img src="https://github.com/ricardonovelot/Instafilter/assets/84286086/36fc8c38-7cf3-4747-9e7e-82b239fae6ec" width="200">
@@ -58,10 +55,9 @@
 <!-- TABLE 2 -->
 <table>
 <tr>
-<!-- PROJECT 4 -->
 <td valign="top" align="center" width="380">
 
-  
+<!-- PROJECT 4 -->  
 <h3>CupcakeCorner<a href="https://github.com/ricardonovelot/CupcakeCorner"> 🔗</a></h3>
 <p>CupcakeCorner is a test app that demostrates how users can make custom orders over the internet</p>
 <img src="https://github.com/ricardonovelot/CupcakeCorner/assets/84286086/bb06f24a-c1c0-4747-9a6e-aab632c614ba" width="200">
@@ -73,10 +69,9 @@
 
 <br>
 </td>
-<!-- PROJECT 5 -->
 <td valign="top" align="center" width="380">
 
-
+<!-- PROJECT 5 -->
 <h3>HabitTracking<a href="https://github.com/ricardonovelot/HabitTracking"> 🔗</a></h3>
 <p>HabitTracking it's a tool for setting personal goals, tracking progress, and encourage positive habit formation.</p>
 <img src="https://github.com/ricardonovelot/HabitTracking/assets/84286086/f017d372-8d37-4ad2-8480-7f9600f79d8d" width="200">
@@ -89,10 +84,9 @@
 
 <br>
 </td>
-<!-- PROJECT 6 -->
 <td valign="top" align="center" width="380">
 
-
+<!-- PROJECT 6 -->
 <h3>MoonShot<a href="https://github.com/ricardonovelot/Moonshot"> 🔗</a></h3>
 <p>Moonshot dives into space history, showcasing information on space missions and astronauts in an engaging way.</p>
 <img src="https://github.com/ricardonovelot/Moonshot/assets/84286086/63e9c612-1b0e-4d8c-b00b-a08ad800ab13" width="200">
@@ -110,27 +104,28 @@
 <!-- TABLE 3 -->
 <table>
 <tr>
-<!-- PROJECT 7 -->
 <td valign="top" align="center" width="380"> 
 
-  
+<!-- PROJECT 7 -->
 <h3>GuessTheFlag<a href="https://github.com/ricardonovelot/GuessTheFlag"> 🔗</a></h3>
 <p>Guess The Flag challenges users to identify flags from different countries.</p>
-<img src="https://github.com/ricardonovelot/GuessTheFlag/assets/84286086/d12abbd2-581b-403f-b7cb-b6e6e3f5e833" width="200">
-
+<img src="https://github.com/ricardonovelot/GuessTheFlag/assets/84286086/e237c6ac-cfc0-4875-8cf2-3636e504adc6" width="200">
+<h4>Technical Highlights</h4>
+<p>
+  VoiceOver Accessibility<br>
+  Alerts
+</p>
 
 <br>
 </td>
+<td valign="top" align="center" width="380">
+
 <!-- PROJECT 8 -->
-<td valign="top" align="center" width="380">
-
-
 
 <br>
 </td>
-<!-- PROJECT 9 -->
 <td valign="top" align="center" width="380">
-
+<!-- PROJECT 9 -->
 
 
 <br>
