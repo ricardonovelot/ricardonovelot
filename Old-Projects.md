@@ -113,7 +113,8 @@
 <img src="https://github.com/ricardonovelot/GuessTheFlag/assets/84286086/e237c6ac-cfc0-4875-8cf2-3636e504adc6" width="200">
 <h4>Technical Highlights</h4>
 <p>
-  VoiceOver Accessibility<br>
+  Voiceover Optimization<br>
+  Animations<br>
   Alerts
 </p>
 
