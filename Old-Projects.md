@@ -93,6 +93,7 @@
 <h4>Technical Highlights</h4>
 <p>
   Generics for Codable Data<br>
+  Voiceover Optimization<br>
   <code>NavigationLink</code> & <code>ScrollView</code>
 </p>
 
