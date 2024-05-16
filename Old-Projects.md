@@ -140,7 +140,6 @@
 
 <h3>Undocumented Projects</h3>
 <ol>
-<li>Instafilter<a href="https://github.com/ricardonovelot/Instafilter"> 🔗</a></li>
 <li>iExpense<a href="https://github.com/ricardonovelot/iExpense"> 🔗</a></li>
 <li>Edutainment<a href="https://github.com/ricardonovelot/Edutainment"> 🔗</a></li>
 <li>First Android App<a href="https://github.com/ricardonovelot/FirstAndroidApp"> 🔗</a></li>
