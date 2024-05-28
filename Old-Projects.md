@@ -24,16 +24,17 @@
 <td valign="top" align="center" width="380">
 
 <!-- PROJECT 2 -->  
-<h3>BookWorms<a href="https://github.com/ricardonovelot/BookWorms"> 🔗</a></h3>
-<p>Bookworms is designed to track books you've read and your thoughts on them.</p>
-<a href="https://github.com/ricardonovelot/BookWorms">
-<img src="https://github.com/ricardonovelot/BookWorms/assets/84286086/b792b98e-516b-4435-b305-e1f33ece8049" width="200">
+
+<h3>FriendFaces<a href="https://github.com/ricardonovelot/FriendFaces"> 🔗</a></h3>
+<p>FriendFaces retrieves user data from the web and displays it in a user-friendly format.</p>
+<a href="https://github.com/ricardonovelot/FriendFaces">
+<img src="https://github.com/ricardonovelot/FriendFaces/assets/84286086/f37784ef-9b1b-4041-acd3-60b0e5da563a" width="200">
 </a>
 <h4>Technical Highlights</h4>
 <p>
-  <code>SwiftData</code><br>
-  Custom Component<br>
-  <code>@Query</code> & <code>SortDescriptor</code>
+  SwiftData<br>
+  <code>URLSession</code><br>
+  JSON parsing
 </p>
 
 </td>
@@ -138,9 +139,22 @@
 
 <!-- PROJECT 8 -->
 
+<h3>BookWorms<a href="https://github.com/ricardonovelot/BookWorms"> 🔗</a></h3>
+<p>Bookworms is designed to track books you've read and your thoughts on them.</p>
+<a href="https://github.com/ricardonovelot/BookWorms">
+<img src="https://github.com/ricardonovelot/BookWorms/assets/84286086/b792b98e-516b-4435-b305-e1f33ece8049" width="200">
+</a>
+<h4>Technical Highlights</h4>
+<p>
+  <code>SwiftData</code><br>
+  Custom Component<br>
+  <code>@Query</code> & <code>SortDescriptor</code>
+</p>
+
 <br>
 </td>
 <td valign="top" align="center" width="380">
+  
 <!-- PROJECT 9 -->
 
 
