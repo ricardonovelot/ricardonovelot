@@ -65,17 +65,16 @@
 <!-- PROJECT 3 -->
 
 <td valign="top" align="center" width="380">
-<h3>FriendFaces<a href="https://github.com/ricardonovelot/FriendFaces"> 🔗</a></h3>  
+<h3>RememberPeople<a href="https://github.com/ricardonovelot/RememberPeople"> 🔗</a></h3>  
 
-<p>FriendFaces retrieves user data from the web and displays it in a user-friendly format.</p>
-<a href="https://github.com/ricardonovelot/FriendFaces">
-<img src="https://github.com/ricardonovelot/FriendFaces/assets/84286086/f37784ef-9b1b-4041-acd3-60b0e5da563a" width="200">
+<p>RememberPeople helps users remember people names.</p>
+<a href="https://github.com/ricardonovelot/RememberPeople">
+<img src="https://github.com/ricardonovelot/RememberPeople/assets/84286086/12b87059-083d-453f-9048-e34e90fe2b4d" width="200">
 </a>
 <h4>Technical Highlights</h4>
 <p>
-  SwiftData<br>
-  <code>URLSession</code><br>
-  JSON parsing
+  CoreData<br>
+  PhotosUI<br>
 </p>
 <br>
 </td>
