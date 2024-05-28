@@ -45,7 +45,7 @@
 
 <p>BucketList app helps users catalog places they wish to visit with descriptions and relevant information.</p>
 
-<img src="https://github.com/ricardonovelot/ricardonovelot/assets/84286086/e047d227-08d8-4032-97e4-c6c0a30e07fa" width="200">
+<img src="https://github.com/ricardonovelot/ricardonovelot/assets/84286086/e047d227-08d8-4032-97e4-c6c0a30e07fa" width="200" href="https://github.com/ricardonovelot/BucketList">
 
 <h4>Technical Highlights</h4>
 <p>
