@@ -28,8 +28,9 @@
 <h3>San Pedro - Event Guide<a href="https://github.com/ricardonovelot/SanPedroEventGuide"> 🔗</a></h3>  
 
 <p>San Pedro is an iOS app designed to provide information on local events.</p>
-
+<a href="https://github.com/ricardonovelot/FriendFaces">
 <img src="https://github.com/ricardonovelot/EventosSanPedro/assets/84286086/f582f6ef-5b37-4587-81c0-c827469adf5a" width="200">
+</a>
 <h4>Technical Highlights</h4>
 <p>
   SwiftUI<br>
@@ -42,7 +43,7 @@
 
 
 <td valign="top" align="center" width="380">
-<h3>BucketList</h3>  
+<h3>BucketList<a href="https://github.com/ricardonovelot/BucketList"> 🔗</a></h3>  
 
 <p>BucketList app helps users catalog places they wish to visit with descriptions and relevant information.</p>
 
@@ -67,8 +68,9 @@
 <h3>FriendFaces<a href="https://github.com/ricardonovelot/FriendFaces"> 🔗</a></h3>  
 
 <p>FriendFaces retrieves user data from the web and displays it in a user-friendly format.</p>
-
+<a href="https://github.com/ricardonovelot/FriendFaces">
 <img src="https://github.com/ricardonovelot/FriendFaces/assets/84286086/f37784ef-9b1b-4041-acd3-60b0e5da563a" width="200">
+</a>
 <h4>Technical Highlights</h4>
 <p>
   SwiftData<br>
