@@ -41,13 +41,14 @@
 <!-- PROJECT 2 -->
 
 <td valign="top" align="center" width="380">
-<h3>BucketList<a href="https://github.com/ricardonovelot/BucketList"> 🔗</a></h3>  
+<a href="https://github.com/ricardonovelot/BucketList">
+<h3>BucketList</h3>  
 
 <p>BucketList app helps users catalog places they wish to visit with descriptions and relevant information.</p>
 
- <a href="https://github.com/ricardonovelot/BucketList">
+
     <img src="https://github.com/ricardonovelot/ricardonovelot/assets/84286086/e047d227-08d8-4032-97e4-c6c0a30e07fa" width="200">
-  </a>
+
   
 <h4>Technical Highlights</h4>
 <p>
@@ -57,6 +58,7 @@
   Documents Directory
 </p>
 <br>
+</a>
 </td>
 
 <!-- PROJECT 3 -->
