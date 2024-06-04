@@ -5,7 +5,7 @@
 <h3>🛠️ My Tech Stack</h3>
 <ul>
   <li>Languages: Swift, C, HTML, CSS</li>
-  <li>Frameworks & Tools: SwiftUI, SwiftData, MapKit</li>
+  <li>Frameworks & Tools: SwiftUI, SwiftData, MapKit, Core ML, MapKit, Core Image, UserNotifications</li>
   <li>Design: Figma</li>
 </ul>
 
