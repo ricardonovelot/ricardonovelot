@@ -96,7 +96,7 @@
 
 <table>
 <tr>
-<td valign="top" align="center">
+<td align="center">
 
 <h3>Links</h3>
 
