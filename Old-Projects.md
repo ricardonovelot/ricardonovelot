@@ -6,22 +6,26 @@
 <tr>
 <td valign="top" align="center" width="380">
 
-<!-- PROJECT 1 -->
-<h3>WeSplit<a href="https://github.com/ricardonovelot/WeSplit"> 🔗</a></h3>
-<p>WeSplit is designed to make bill splitting simple and efficient.</p>
-<a href="https://github.com/ricardonovelot/WeSplit">
-<img src="https://github.com/ricardonovelot/WeSplit/assets/84286086/3af0962b-8838-441b-8f25-139231efb13a" width="200">
+
+<!-- PROJECT 0 -->
+<h3>RememberPeople<a href="https://github.com/ricardonovelot/RememberPeople"> 🔗</a></h3>
+
+<p>RememberPeople helps users remember people names.</p>
+<a href="https://github.com/ricardonovelot/RememberPeople">
+<img src="https://github.com/ricardonovelot/RememberPeople/assets/84286086/12b87059-083d-453f-9048-e34e90fe2b4d" width="200">
 </a>
 <h4>Technical Highlights</h4>
 <p>
-  <code>@State</code> and <code>@FocusState</code><br>
-  <code>TextField</code> and <code>Picker</code>
+  CoreData<br>
+  PhotosUI<br>
 </p>
-
-
 <br>
 </td>
 <td valign="top" align="center" width="380">
+
+
+<!-- PROJECT 1 -->
+
 
 <!-- PROJECT 2 -->  
 
@@ -52,11 +56,10 @@
   StoreKit<br>
   PhotosUI
 </p>
-
-
 <br>
 </td>  
 </tr>
+
 </table>
 <br>
 <!-- TABLE 2 -->
@@ -74,7 +77,6 @@
 <p>
   <code>URLSession</code><br>
 </p>
-
 
 <br>
 </td>
@@ -157,6 +159,20 @@
   
 <!-- PROJECT 9 -->
 
+<h3>WeSplit<a href="https://github.com/ricardonovelot/WeSplit"> 🔗</a></h3>
+<p>WeSplit is designed to make bill splitting simple and efficient.</p>
+<a href="https://github.com/ricardonovelot/WeSplit">
+<img src="https://github.com/ricardonovelot/WeSplit/assets/84286086/3af0962b-8838-441b-8f25-139231efb13a" width="200">
+</a>
+<h4>Technical Highlights</h4>
+<p>
+  <code>@State</code> and <code>@FocusState</code><br>
+  <code>TextField</code> and <code>Picker</code>
+</p>
+
+<br>
+</td>
+<td valign="top" align="center" width="380">
 
 <br>
 </td>
