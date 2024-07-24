@@ -15,8 +15,8 @@
 <h3>🤝My Work</h3>
 <ul>
   <li><a href="https://www.linkedin.com/in/ricardo-nlo/">LinkedIn</a></li>
-  <li><a href="https://github.com/ricardonovelot/ricardonovelot/blob/main/Old-Projects.md">Developement</a> <img src="https://github.com/user-attachments/assets/3d564fbb-13b7-4361-89b9-2cd95fc35370" width="10"></li> 
-  <li><a href="https://www.behance.net/ricardolopezn/projects">UI/UX</a></li>
+  <li><a href="https://github.com/ricardonovelot/ricardonovelot/blob/main/Old-Projects.md">GitHub</a> Developement<img src="https://github.com/user-attachments/assets/3d564fbb-13b7-4361-89b9-2cd95fc35370" width="20"></li> 
+  <li><a href="https://www.behance.net/ricardolopezn/projects">Behance</a>UI/UX</li>
 </ul>
 
 
