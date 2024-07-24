@@ -65,7 +65,7 @@
 
 <!-- PROJECT 3 -->
 
-<td valign="top" align="center" width="380">
+<td valign="center" align="center" width="380">
 
   <br>
 <h3 align="center">Check out <a href="https://github.com/ricardonovelot/ricardonovelot/blob/main/Old-Projects.md">More Projects</a> Here! 👈🏻</h3>
