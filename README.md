@@ -96,15 +96,17 @@
 
 
 
-<h3>Links To My Work</h3>
+<h3>Links to my work</h3>
 
-
+<br>
+ <img src="https://github.com/user-attachments/assets/aba04acd-68ef-4e72-9b78-79f983e102aa" width="20">
   <a href="https://www.linkedin.com/in/ricardo-nlo/">LinkedIn</a>
 <br>
-    <img src="https://github.com/user-attachments/assets/3d564fbb-13b7-4361-89b9-2cd95fc35370" width="20">
-    <a href="https://github.com/ricardonovelot/ricardonovelot/blob/main/Old-Projects.md">GitHub</a> Developement
+  <img src="https://github.com/user-attachments/assets/3d564fbb-13b7-4361-89b9-2cd95fc35370" width="20">
+  <a href="https://github.com/ricardonovelot/ricardonovelot/blob/main/Old-Projects.md">GitHub</a> Developement
 <br>
+ <img src="https://github.com/user-attachments/assets/57963869-f8a5-4ad7-9531-440b5ebf04e8" width="20">
   <a href="https://www.behance.net/ricardolopezn/projects">Behance</a> UI/UX
 <br>
 <br>
-<br>
+
