@@ -2,15 +2,14 @@
 
 <h1>Old Projects</h1>
 
+<!-- START TABLE 1 -->
 <table>
 <tr>
-<td valign="top" align="center" width="380">
-
-
+<!-- START TABLE 1 -->
+  
 <!-- PROJECT 1 -->
-
+<td valign="top" align="center" width="380">
 <h3>RememberPeople<a href="https://github.com/ricardonovelot/RememberPeople"> 🔗</a></h3>
-
 <p>RememberPeople helps users remember people names.</p>
 <a href="https://github.com/ricardonovelot/RememberPeople">
 <img src="https://github.com/ricardonovelot/RememberPeople/assets/84286086/12b87059-083d-453f-9048-e34e90fe2b4d" width="200">
@@ -22,11 +21,9 @@
 </p>
 <br>
 </td>
-<td valign="top" align="center" width="380">
-
 
 <!-- PROJECT 2 -->  
-
+<td valign="top" align="center" width="380">
 <h3>FriendFaces<a href="https://github.com/ricardonovelot/FriendFaces"> 🔗</a></h3>
 <p>FriendFaces retrieves user data from the web and displays it in a user-friendly format.</p>
 <a href="https://github.com/ricardonovelot/FriendFaces">
@@ -38,12 +35,10 @@
   <code>URLSession</code><br>
   JSON parsing
 </p>
-
 </td>
-<td valign="top" align="center" width="380">
-  
-<!-- PROJECT 3 -->
 
+<!-- PROJECT 3 -->
+<td valign="top" align="center" width="380">
 <h3>Instafilter<a href="https://github.com/ricardonovelot/Instafilter"> 🔗</a></h3>
 <p>Instafilter allows users to edit photos with filters through a user-friendly interface.</p>
 <a href="https://github.com/ricardonovelot/Instafilter">
@@ -56,18 +51,21 @@
   PhotosUI
 </p>
 <br>
-</td>  
-</tr>
+</td>
 
+<!-- END TABLE 1 -->
+</tr>
 </table>
-<br>
-<!-- TABLE 2 -->
+<!-- END TABLE 1 -->
+
+
+<!-- START TABLE 2 -->
 <table>
 <tr>
-<td valign="top" align="center" width="380">
-
+<!-- START TABLE 2 -->
+  
 <!-- PROJECT 4 -->  
-
+<td valign="top" align="center" width="380">
 <h3>CupcakeCorner<a href="https://github.com/ricardonovelot/CupcakeCorner"> 🔗</a></h3>
 <p>CupcakeCorner is a test app that demostrates how users can make custom orders over the internet</p>
 <a href="https://github.com/ricardonovelot/CupcakeCorner">
@@ -77,12 +75,11 @@
 <p>
   <code>URLSession</code><br>
 </p>
-
 <br>
 </td>
-<td valign="top" align="center" width="380">
 
 <!-- PROJECT 5 -->
+<td valign="top" align="center" width="380">
 <h3>HabitTracking<a href="https://github.com/ricardonovelot/HabitTracking"> 🔗</a></h3>
 <p>HabitTracking it's a tool for setting personal goals, tracking progress, and encourage positive habit formation.</p>
 <a href="https://github.com/ricardonovelot/HabitTracking">
@@ -93,13 +90,11 @@
   <code>Codable</code><br>
   <code>UserDefaults</code>
 </p>
-
-
 <br>
 </td>
-<td valign="top" align="center" width="380">
 
 <!-- PROJECT 6 -->
+<td valign="top" align="center" width="380">
 <h3>MoonShot<a href="https://github.com/ricardonovelot/Moonshot"> 🔗</a></h3>
 <p>Moonshot dives into space history, showcasing information on space missions and astronauts in an engaging way.</p>
 <a href="https://github.com/ricardonovelot/Moonshot">
@@ -111,18 +106,21 @@
   Voiceover Optimization<br>
   <code>NavigationLink</code> & <code>ScrollView</code>
 </p>
-
-
 <br>
 </td>
+
+<!-- END TABLE 2 -->
 </tr>
 </table>
-<!-- TABLE 3 -->
+<!-- END TABLE 2 -->
+
+<!-- START TABLE 3 -->
 <table>
 <tr>
-<td valign="top" align="center" width="380"> 
-
+<!-- START TABLE 3 -->
+  
 <!-- PROJECT 7 -->
+<td valign="top" align="center" width="380"> 
 <h3>GuessTheFlag<a href="https://github.com/ricardonovelot/GuessTheFlag"> 🔗</a></h3>
 <p>Guess The Flag challenges users to identify flags from different countries.</p>
 <a href="https://github.com/ricardonovelot/GuessTheFlag">
@@ -134,13 +132,11 @@
   Animations<br>
   Alerts
 </p>
-
 <br>
 </td>
-<td valign="top" align="center" width="380">
 
 <!-- PROJECT 8 -->
-
+<td valign="top" align="center" width="380">
 <h3>BookWorms<a href="https://github.com/ricardonovelot/BookWorms"> 🔗</a></h3>
 <p>Bookworms is designed to track books you've read and your thoughts on them.</p>
 <a href="https://github.com/ricardonovelot/BookWorms">
@@ -152,13 +148,11 @@
   Custom Component<br>
   <code>@Query</code> & <code>SortDescriptor</code>
 </p>
-
 <br>
 </td>
-<td valign="top" align="center" width="380">
-  
-<!-- PROJECT 9 -->
 
+<!-- PROJECT 9 -->
+<td valign="top" align="center" width="380">
 <h3>WeSplit<a href="https://github.com/ricardonovelot/WeSplit"> 🔗</a></h3>
 <p>WeSplit is designed to make bill splitting simple and efficient.</p>
 <a href="https://github.com/ricardonovelot/WeSplit">
@@ -170,10 +164,11 @@
   <code>TextField</code> and <code>Picker</code>
 </p>
 </td>
+
+<!-- END TABLE 3 -->
 </tr>
-
-
 </table>
+<!-- END TABLE 3 -->
 
 <h3>Undocumented Projects</h3>
 <ol>
@@ -184,7 +179,6 @@
 <li>Rock Paper Scissors</li>
 <li>BetterRest</li>
 <li>Word Scramble</li>
-  
 </ol>
 
 <br>
