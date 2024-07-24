@@ -68,7 +68,8 @@
 <td valign="center" align="center" width="380" >
 
 
-<h2 align="center"><a href="https://github.com/ricardonovelot/ricardonovelot/blob/main/Old-Projects.md"> Check Out <br> More Projects Here! ↩</a></h2>
+<h3 align="center"><a href="https://github.com/ricardonovelot/ricardonovelot/blob/main/Old-Projects.md"> Check Out <br> More Projects Here! </a>↩</h3>
+<br>
 <br>
 <br>
 <br>
