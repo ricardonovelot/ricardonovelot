@@ -21,8 +21,27 @@
 <!-- PROJECT 1 -->
 
 <td valign="top" align="center" width="380">
-<h3>San Pedro - Event Guide<a href="https://github.com/ricardonovelot/SanPedroEventGuide"> 🔗</a></h3>  
+  
+<h3>Names<a href="https://github.com/ricardonovelot/Names"> 🔗</a></h3>  
+<p>Names is an iOS app designed to capture contact notes and names of people you met</p>
+<a href="https://github.com/ricardonovelot/Names">
+<img src="https://github.com/user-attachments/assets/41a6a1ac-ee93-4960-a0a9-3ff324aba93d" width="200">
+</a>
+<h4>Technical Highlights</h4>
+<p>
+CoreData<br>
+SwiftUI<br>
+MVVM
+</p>
+<br>
 
+</td>
+
+<!-- PROJECT 2 -->
+
+<td valign="top" align="center" width="380">
+  
+<h3>San Pedro - Event Guide<a href="https://github.com/ricardonovelot/SanPedroEventGuide"> 🔗</a></h3>  
 <p>San Pedro is a concept app designed to provide information on local events.</p>
 <a href="https://github.com/ricardonovelot/SanPedroEventGuide">
 <img src="https://github.com/ricardonovelot/EventosSanPedro/assets/84286086/f582f6ef-5b37-4587-81c0-c827469adf5a" width="200">
@@ -31,28 +50,6 @@
 <p>
   SwiftUI<br>
   SwiftData
-</p>
-<br>
-</td>
-
-<!-- PROJECT 2 -->
-
-
-<td valign="top" align="center" width="380">
-<h3>BucketList<a href="https://github.com/ricardonovelot/BucketList"> 🔗</a></h3>  
-
-<p>BucketList app helps users catalog places they wish to visit with descriptions and relevant information.</p>
-
-<a href="https://github.com/ricardonovelot/BucketList">
-<img src="https://github.com/ricardonovelot/ricardonovelot/assets/84286086/e047d227-08d8-4032-97e4-c6c0a30e07fa" width="200">
-</a>
-  
-<h4>Technical Highlights</h4>
-<p>
-  MVVM<br>
-  Wikipedia API<br>
-  MapKit<br>
-  Documents Directory
 </p>
 <br>
 
