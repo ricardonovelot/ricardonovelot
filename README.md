@@ -94,7 +94,7 @@
 </table>
 
 
-<table width="100%">
+<table width="10000">
 <tr>
 <td align="center">
 
