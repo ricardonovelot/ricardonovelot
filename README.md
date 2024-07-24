@@ -65,10 +65,12 @@
 
 <!-- PROJECT 3 -->
 
-<td valign="center" align="center" width="380" padding-bottom=20px>
+<td valign="center" align="center" width="380" >
 
+
+<h3 align="center"><a href="https://github.com/ricardonovelot/ricardonovelot/blob/main/Old-Projects.md"> Check Out <br> More Projects Here! ↩</a></h3>
 <br>
-<h3 align="center"><a href="https://github.com/ricardonovelot/ricardonovelot/blob/main/Old-Projects.md"> Check Out More Projects Here! ↩</a></h3>
+<br>
 <br>
 
 <!--
