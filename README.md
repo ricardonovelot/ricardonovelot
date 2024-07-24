@@ -94,9 +94,9 @@
 </table>
 
 
-<table width="10000">
+<table>
 <tr>
-<td align="center">
+<td align="center" width="10000">
 
 <h3>Links</h3>
 
