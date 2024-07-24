@@ -12,17 +12,6 @@
 <h3>🎯 Professional Goals</h3>
 <p>My immediate goal is to master mobile design. I aspire to join a company where I can contribute to impactful projects.</p>
 
-<h3>🤝My Work</h3>
-
-
-  <a href="https://www.linkedin.com/in/ricardo-nlo/">LinkedIn</a>
-<br>
-    <img src="https://github.com/user-attachments/assets/3d564fbb-13b7-4361-89b9-2cd95fc35370" width="20">
-    <a href="https://github.com/ricardonovelot/ricardonovelot/blob/main/Old-Projects.md">GitHub</a> Developement
-<br>
-  <a href="https://www.behance.net/ricardolopezn/projects">Behance</a> UI/UX
-<br>
-
 
 
 <h3>👨🏻‍💻 Recent Projects</h3>
@@ -105,4 +94,15 @@
 </table>
 
 
+<br>
+
+<h3>🤝My Work</h3>
+
+
+  <a href="https://www.linkedin.com/in/ricardo-nlo/">LinkedIn</a>
+<br>
+    <img src="https://github.com/user-attachments/assets/3d564fbb-13b7-4361-89b9-2cd95fc35370" width="20">
+    <a href="https://github.com/ricardonovelot/ricardonovelot/blob/main/Old-Projects.md">GitHub</a> Developement
+<br>
+  <a href="https://www.behance.net/ricardolopezn/projects">Behance</a> UI/UX
 <br>
