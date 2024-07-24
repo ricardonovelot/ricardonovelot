@@ -9,17 +9,21 @@
   
 <!-- PROJECT 1 -->
 <td valign="top" align="center" width="380">
-<h3>RememberPeople<a href="https://github.com/ricardonovelot/RememberPeople"> 🔗</a></h3>
-<p>RememberPeople helps users remember people names.</p>
-<a href="https://github.com/ricardonovelot/RememberPeople">
-<img src="https://github.com/ricardonovelot/RememberPeople/assets/84286086/12b87059-083d-453f-9048-e34e90fe2b4d" width="200">
+  
+<h3>BucketList<a href="https://github.com/ricardonovelot/BucketList"> 🔗</a></h3>  
+<p>BucketList app helps users catalog places they wish to visit with descriptions and relevant information.</p>
+<a href="https://github.com/ricardonovelot/BucketList">
+<img src="https://github.com/ricardonovelot/ricardonovelot/assets/84286086/e047d227-08d8-4032-97e4-c6c0a30e07fa" width="200">
 </a>
 <h4>Technical Highlights</h4>
 <p>
-  CoreData<br>
-  PhotosUI<br>
+  MVVM<br>
+  Wikipedia API<br>
+  MapKit<br>
+  Documents Directory
 </p>
 <br>
+  
 </td>
 
 <!-- PROJECT 2 -->  
@@ -170,6 +174,32 @@
 </table>
 <!-- END TABLE 3 -->
 
+
+<!-- START TABLE 4 -->
+<table>
+<tr>
+<!-- START TABLE 4 -->
+  
+<!-- PROJECT 1 -->
+<td valign="top" align="center" width="380">
+  
+<h3>RememberPeople<a href="https://github.com/ricardonovelot/RememberPeople"> 🔗</a></h3>
+<p>RememberPeople helps users remember people names.</p>
+<a href="https://github.com/ricardonovelot/RememberPeople">
+<img src="https://github.com/ricardonovelot/RememberPeople/assets/84286086/12b87059-083d-453f-9048-e34e90fe2b4d" width="200">
+</a>
+<h4>Technical Highlights</h4>
+<p>
+  CoreData<br>
+  PhotosUI<br>
+</p>
+<br>
+  
+</td>
+
+<!-- PROJECT 2 -->  
+<td valign="top" align="center" width="380">
+  
 <h3>Undocumented Projects</h3>
 <ol>
 <li>Prospects<a href="https://github.com/ricardonovelot/Prospects"> 🔗</a></li>
@@ -180,6 +210,20 @@
 <li>BetterRest</li>
 <li>Word Scramble</li>
 </ol>
+  
+</td>
+
+<!-- PROJECT 3 -->
+<td valign="top" align="center" width="380">
+
+</td>
+
+<!-- END TABLE 4 -->
+</tr>
+</table>
+<!-- END TABLE 4 -->
+
+
 
 <br>
 <h3 align="center"><a href="https://github.com/ricardonovelot">Go Back to Recent Projects ↩</a></h3>
