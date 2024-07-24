@@ -123,7 +123,7 @@
 <tr>
 <!-- START TABLE 3 -->
   
-<!-- PROJECT 7 -->
+<!-- PROJECT 1 -->
 <td valign="top" align="center" width="380"> 
 <h3>GuessTheFlag<a href="https://github.com/ricardonovelot/GuessTheFlag"> 🔗</a></h3>
 <p>Guess The Flag challenges users to identify flags from different countries.</p>
@@ -139,7 +139,7 @@
 <br>
 </td>
 
-<!-- PROJECT 8 -->
+<!-- PROJECT 2 -->
 <td valign="top" align="center" width="380">
 <h3>BookWorms<a href="https://github.com/ricardonovelot/BookWorms"> 🔗</a></h3>
 <p>Bookworms is designed to track books you've read and your thoughts on them.</p>
@@ -148,14 +148,14 @@
 </a>
 <h4>Technical Highlights</h4>
 <p>
-  <code>SwiftData</code><br>
+  SwiftData<br>
   Custom Component<br>
   <code>@Query</code> & <code>SortDescriptor</code>
 </p>
 <br>
 </td>
 
-<!-- PROJECT 9 -->
+<!-- PROJECT 3 -->
 <td valign="top" align="center" width="380">
 <h3>WeSplit<a href="https://github.com/ricardonovelot/WeSplit"> 🔗</a></h3>
 <p>WeSplit is designed to make bill splitting simple and efficient.</p>
