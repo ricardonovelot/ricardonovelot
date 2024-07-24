@@ -94,7 +94,9 @@
 </table>
 
 
-
+<table>
+<tr>
+<td valign="top" align="center">
 
 <h3>Links</h3>
 
@@ -109,4 +111,8 @@
   <a href="https://www.behance.net/ricardolopezn/projects">Behance</a> UI/UX
 <br>
 <br>
+
+</td>
+</td>tr>
+</table>
 
