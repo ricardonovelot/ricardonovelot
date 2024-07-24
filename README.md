@@ -99,7 +99,7 @@
 <h3>Links to my work</h3>
 
 <br>
- <img src="https://github.com/user-attachments/assets/aba04acd-68ef-4e72-9b78-79f983e102aa" width="10">
+ <img src="https://github.com/user-attachments/assets/aba04acd-68ef-4e72-9b78-79f983e102aa" width="15">
   <a href="https://www.linkedin.com/in/ricardo-nlo/">LinkedIn</a>
 <br>
   <img src="https://github.com/user-attachments/assets/3d564fbb-13b7-4361-89b9-2cd95fc35370" width="20">
