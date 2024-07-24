@@ -96,7 +96,7 @@
 
 
 
-<h3>Links to my work</h3>
+<h3>Links</h3>
 
 <br>
  <img src="https://github.com/user-attachments/assets/aba04acd-68ef-4e72-9b78-79f983e102aa" width="15">
