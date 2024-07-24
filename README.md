@@ -71,7 +71,7 @@
 <h3 align="center">Check out <a href="https://github.com/ricardonovelot/ricardonovelot/blob/main/Old-Projects.md">More Projects</a> Here! 👈🏻</h3>
 <br>
 
-<! ––
+<!--
 <h3>RememberPeople<a href="https://github.com/ricardonovelot/RememberPeople"> 🔗</a></h3>  
 
 <p>RememberPeople helps users remember people names.</p>
@@ -84,7 +84,7 @@
   PhotosUI<br>
 </p>
 <br>
-––>
+-->
 
 </td>
 </tr>
