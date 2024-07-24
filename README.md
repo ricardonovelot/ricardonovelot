@@ -94,7 +94,7 @@
 </table>
 
 
-<br>
+
 
 <h3>Links To My Work</h3>
 
@@ -105,4 +105,6 @@
     <a href="https://github.com/ricardonovelot/ricardonovelot/blob/main/Old-Projects.md">GitHub</a> Developement
 <br>
   <a href="https://www.behance.net/ricardolopezn/projects">Behance</a> UI/UX
+<br>
+<br>
 <br>
