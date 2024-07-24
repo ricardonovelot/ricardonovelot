@@ -99,7 +99,6 @@
 <td align="center" width="10000">
 
 <h3>Links</h3>
-<br>
  <img src="https://github.com/user-attachments/assets/aba04acd-68ef-4e72-9b78-79f983e102aa" width="15">
   <a href="https://www.linkedin.com/in/ricardo-nlo/">LinkedIn</a>
 <br>
