@@ -1,4 +1,4 @@
-<h2>👋 Hi there!</h2>
+<h2>Hi there!</h2>
 
 <p>I'm a Developer and Designer. I am actively developing my skills in Swift and SwiftUI, building applications with intuitive designs.</p>
 
@@ -67,8 +67,8 @@
 
 <td valign="center" align="center" width="380">
 
-  <br>
-<h3 align="center">Check out <a href="https://github.com/ricardonovelot/ricardonovelot/blob/main/Old-Projects.md">More Projects</a> Here! 👈🏻</h3>
+<br>
+<h3 align="center"><a href="https://github.com/ricardonovelot/ricardonovelot/blob/main/Old-Projects.md"> Check Out More Projects Here! ↩</a></h3>
 <br>
 
 <!--
@@ -85,6 +85,9 @@
 </p>
 <br>
 -->
+
+
+
 
 </td>
 </tr>
