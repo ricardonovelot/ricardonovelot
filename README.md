@@ -2,14 +2,14 @@
 
 <p>I'm a Developer and Designer. I am actively developing my skills in Swift and SwiftUI, building applications with intuitive designs.</p>
 
-<h3>🛠️ My Tech Stack</h3>
+<h3>🎨 Tech Stack</h3>
 <ul>
   <li>Languages & Frameworks: Swift, SwiftUI, SwiftData, MapKit, Core ML, Core Image, C</li>
   <li>Design: Figma, Adobe CC</li>
   
 </ul>
 
-<h3>🎯 Professional Goals</h3>
+<h3>🎯 Professional Goal</h3>
 <p>My immediate goal is to master mobile design. I aspire to join a company where I can contribute to impactful projects.</p>
 
 
@@ -96,7 +96,7 @@
 
 <br>
 
-<h3>🤝My Work</h3>
+<h3>Links To My Work</h3>
 
 
   <a href="https://www.linkedin.com/in/ricardo-nlo/">LinkedIn</a>
