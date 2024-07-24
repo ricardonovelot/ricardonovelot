@@ -198,7 +198,7 @@
 </td>
 
 <!-- PROJECT 2 -->  
-<td valign="top" align="center" width="380">
+<td valign="top" align="left" width="380">
   
 <h3>Undocumented Projects</h3>
 <ol>
@@ -222,7 +222,6 @@
 </tr>
 </table>
 <!-- END TABLE 4 -->
-
 
 
 <br>
