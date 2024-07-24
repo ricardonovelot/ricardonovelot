@@ -7,7 +7,8 @@
 <td valign="top" align="center" width="380">
 
 
-<!-- PROJECT 0 -->
+<!-- PROJECT 1 -->
+
 <h3>RememberPeople<a href="https://github.com/ricardonovelot/RememberPeople"> 🔗</a></h3>
 
 <p>RememberPeople helps users remember people names.</p>
@@ -22,9 +23,6 @@
 <br>
 </td>
 <td valign="top" align="center" width="380">
-
-
-<!-- PROJECT 1 -->
 
 
 <!-- PROJECT 2 -->  
@@ -45,6 +43,7 @@
 <td valign="top" align="center" width="380">
   
 <!-- PROJECT 3 -->
+
 <h3>Instafilter<a href="https://github.com/ricardonovelot/Instafilter"> 🔗</a></h3>
 <p>Instafilter allows users to edit photos with filters through a user-friendly interface.</p>
 <a href="https://github.com/ricardonovelot/Instafilter">
@@ -68,6 +67,7 @@
 <td valign="top" align="center" width="380">
 
 <!-- PROJECT 4 -->  
+
 <h3>CupcakeCorner<a href="https://github.com/ricardonovelot/CupcakeCorner"> 🔗</a></h3>
 <p>CupcakeCorner is a test app that demostrates how users can make custom orders over the internet</p>
 <a href="https://github.com/ricardonovelot/CupcakeCorner">
@@ -169,14 +169,10 @@
   <code>@State</code> and <code>@FocusState</code><br>
   <code>TextField</code> and <code>Picker</code>
 </p>
-
-<br>
-</td>
-<td valign="top" align="center" width="380">
-
-<br>
 </td>
 </tr>
+
+
 </table>
 
 <h3>Undocumented Projects</h3>
