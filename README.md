@@ -28,7 +28,7 @@
 <td valign="top" align="center" width="380">
 <h3>San Pedro - Event Guide<a href="https://github.com/ricardonovelot/SanPedroEventGuide"> 🔗</a></h3>  
 
-<p>San Pedro is an iOS app designed to provide information on local events.</p>
+<p>San Pedro is a concept app designed to provide information on local events.</p>
 <a href="https://github.com/ricardonovelot/SanPedroEventGuide">
 <img src="https://github.com/ricardonovelot/EventosSanPedro/assets/84286086/f582f6ef-5b37-4587-81c0-c827469adf5a" width="200">
 </a>
