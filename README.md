@@ -23,9 +23,11 @@
 
 <h3>Names</h3>  
 <p>Names is an iOS app designed quickly capture contact notes and names</p>
-<a href="https://github.com/ricardonovelot/Names"><img src="https://github.com/user-attachments/assets/58372ca1-63d6-423c-a558-08cb18c68cfb" width="32">‏‏</a> &nbsp;
+<p>
+<a href="https://github.com/ricardonovelot/Names"><img src="https://github.com/user-attachments/assets/58372ca1-63d6-423c-a558-08cb18c68cfb" width="32">‏‏</a>
 <a href="https://testflight.apple.com/join/NuON0fEq"><img src="https://github.com/user-attachments/assets/0926df5d-a3be-4109-bcce-3a72e078b4e1" width="32">‏‏</a> 
-<br>
+</p>
+  <br>
 <a href="https://github.com/ricardonovelot/Names">
 <img src="https://github.com/user-attachments/assets/41a6a1ac-ee93-4960-a0a9-3ff324aba93d" width="200">
 </a>
