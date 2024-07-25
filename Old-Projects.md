@@ -28,17 +28,20 @@
 
 <!-- PROJECT 2 -->  
 <td valign="top" align="center" width="380">
-<h3>FriendFaces<a href="https://github.com/ricardonovelot/FriendFaces"> 🔗</a></h3>
-<p>FriendFaces retrieves data from the web and displays it in a user-friendly format.</p>
-<a href="https://github.com/ricardonovelot/FriendFaces">
-<img src="https://github.com/ricardonovelot/FriendFaces/assets/84286086/f37784ef-9b1b-4041-acd3-60b0e5da563a" width="200">
+  
+<h3>GuessTheFlag<a href="https://github.com/ricardonovelot/GuessTheFlag"> 🔗</a></h3>
+<p>GuessTheFlag is a game to identify flags from different countries.</p>
+<a href="https://github.com/ricardonovelot/GuessTheFlag">
+<img src="https://github.com/ricardonovelot/GuessTheFlag/assets/84286086/e237c6ac-cfc0-4875-8cf2-3636e504adc6" width="200">
 </a>
 <h4>Technical Highlights</h4>
 <p>
-  JSON parsing<br>
-  <code>URLSession</code><br>
-  SwiftData
+  Voiceover Optimization<br>
+  Animations<br>
+  Alerts
 </p>
+<br>
+
 </td>
 
 <!-- PROJECT 3 -->
@@ -125,18 +128,19 @@
   
 <!-- PROJECT 1 -->
 <td valign="top" align="center" width="380"> 
-<h3>GuessTheFlag<a href="https://github.com/ricardonovelot/GuessTheFlag"> 🔗</a></h3>
-<p>GuessTheFlag is a game to identify flags from different countries.</p>
-<a href="https://github.com/ricardonovelot/GuessTheFlag">
-<img src="https://github.com/ricardonovelot/GuessTheFlag/assets/84286086/e237c6ac-cfc0-4875-8cf2-3636e504adc6" width="200">
+
+<h3>FriendFaces<a href="https://github.com/ricardonovelot/FriendFaces"> 🔗</a></h3>
+<p>FriendFaces retrieves data from the web and displays it in a user-friendly format.</p>
+<a href="https://github.com/ricardonovelot/FriendFaces">
+<img src="https://github.com/ricardonovelot/FriendFaces/assets/84286086/f37784ef-9b1b-4041-acd3-60b0e5da563a" width="200">
 </a>
 <h4>Technical Highlights</h4>
 <p>
-  Voiceover Optimization<br>
-  Animations<br>
-  Alerts
+  JSON parsing<br>
+  <code>URLSession</code><br>
+  SwiftData
 </p>
-<br>
+
 </td>
 
 <!-- PROJECT 2 -->
