@@ -1,19 +1,19 @@
 <h2>Hi there!</h2>
 
 <p>I'm a Developer and UI Designer. I am actively developing my skills in Swift and SwiftUI.</p>
-
-<h3>🎨 Tech Stack</h3>
+<!-- 🎨🎯👨🏻‍💻 -->
+<h3> Tech Stack</h3>
 <ul>
   <li>Languages & Frameworks: Swift, SwiftUI, CoreData, SwiftData, MapKit, Core ML, Core Image, C.</li>
   <li>Software & Tools: Figma, Adobe CC, XCode, TestFlight, JIRA, UserTesting.com </li>
   
 </ul>
 
-<h3>🎯 Professional Goal</h3>
+<h3> Professional Goal</h3>
 <p>My immediate goal is to master mobile design. I aspire to join a company where I can contribute to impactful projects.</p>
 
 
-<h3>👨🏻‍💻 Recent Projects</h3>
+<h3> Recent Projects</h3>
 <table>
 <tr>
 
