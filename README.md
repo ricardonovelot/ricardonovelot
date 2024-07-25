@@ -22,10 +22,10 @@
 
 <td valign="top" align="center" width="380">
   
-<h3>Names<a href="https://github.com/ricardonovelot/Names"> 🔗</a></h3>  
+<h3>Names<a href="https://github.com/ricardonovelot/Names"></a></h3>  
+<p>Names is an iOS app designed quickly capture contact notes and names</p>
 <a href="https://testflight.apple.com/join/NuON0fEq"><img src="https://github.com/user-attachments/assets/dec43547-ad97-4889-8d0c-fa361ef7dee2" width="30">‏‏</a>
 <a href="https://github.com/ricardonovelot/Names"><img src="https://github.com/user-attachments/assets/3d564fbb-13b7-4361-89b9-2cd95fc35370" width="30">‏‏</a>
-<p>Names is an iOS app designed quickly capture contact notes and names</p>
 <a href="https://github.com/ricardonovelot/Names">
 <img src="https://github.com/user-attachments/assets/41a6a1ac-ee93-4960-a0a9-3ff324aba93d" width="200">
 </a>
