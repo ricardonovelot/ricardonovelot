@@ -44,7 +44,7 @@
 <!-- PROJECT 3 -->
 <td valign="top" align="center" width="380">
 <h3>Instafilter<a href="https://github.com/ricardonovelot/Instafilter"> 🔗</a></h3>
-<p>Instafilter allows users to edit photos with filters through a user-friendly interface.</p>
+<p>Instafilter edit photos with filters through a user-friendly interface.</p>
 <a href="https://github.com/ricardonovelot/Instafilter">
 <img src="https://github.com/ricardonovelot/Instafilter/assets/84286086/36fc8c38-7cf3-4747-9e7e-82b239fae6ec" width="200">
 </a>
