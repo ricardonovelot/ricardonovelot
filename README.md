@@ -1,6 +1,6 @@
 <h2>Hi there!</h2>
 
-<p>I'm a Developer and Designer. I am actively developing my skills in Swift and SwiftUI, building applications with intuitive designs.</p>
+<p>I'm a Developer and Designer. I am actively developing my skills in Swift and SwiftUI.</p>
 
 <h3>🎨 Tech Stack</h3>
 <ul>
