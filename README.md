@@ -22,7 +22,8 @@
 
 <td valign="top" align="center" width="380">
   
-<h3>Names<a href="https://github.com/ricardonovelot/Names"> 🔗</a></h3>  
+<h3>Names<a href="https://github.com/ricardonovelot/Names"> 🔗</a> <img src="https://github.com/user-attachments/assets/dec43547-ad97-4889-8d0c-fa361ef7dee2" width="15">
+</h3>  
 <p><a href="https://testflight.apple.com/join/NuON0fEq">TestFlight‏‏‎‎‏</a>‏‏‎ ‎‏‏‎ ‎</p>  
 
 <p>Names is an iOS app designed quickly capture contact notes and names</p>
@@ -97,8 +98,7 @@ MVVM
 <tr>
 <td align="center" width="10000">
 
-<h3>Links</h3>
- <img src="https://github.com/user-attachments/assets/aba04acd-68ef-4e72-9b78-79f983e102aa" width="15">
+<img src="https://github.com/user-attachments/assets/aba04acd-68ef-4e72-9b78-79f983e102aa" width="15">
   <a href="https://www.linkedin.com/in/ricardo-nlo/">LinkedIn</a>
 <br>
   <img src="https://github.com/user-attachments/assets/3d564fbb-13b7-4361-89b9-2cd95fc35370" width="20">
