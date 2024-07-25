@@ -22,7 +22,7 @@
 <td valign="top" align="center" width="380">
 
 <h3>Names</h3>  
-<p>Names is a people-centered journal app designed to capture and retrieve contact notes.</p>
+<p>Capture contact notes. Names is a people-centered journal app.</p>
 <p>
 <a href="https://github.com/ricardonovelot/Names-Public"><img src="https://github.com/user-attachments/assets/58372ca1-63d6-423c-a558-08cb18c68cfb" width="32">‏‏</a>
 &nbsp;
