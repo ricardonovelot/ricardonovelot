@@ -1,6 +1,6 @@
 <h3><a href="https://github.com/ricardonovelot#-recent-projects">❮‎‎‎ &nbsp; Recent Projects</a></h3>
 
-<h1>Old Projects</h1>
+<h1>Projects Vault</h1>
 
 <!-- START TABLE 1 -->
 <table>
