@@ -100,7 +100,7 @@
 <!-- PROJECT 6 -->
 <td valign="top" align="center" width="380">
 <h3>MoonShot<a href="https://github.com/ricardonovelot/Moonshot"> 🔗</a></h3>
-<p>Moonshot dives into space history, showcasing information on space missions and astronauts in an engaging way.</p>
+<p>Moonshot showcase information on space missions and astronauts in an engaging way.</p>
 <a href="https://github.com/ricardonovelot/Moonshot">
 <img src="https://github.com/ricardonovelot/Moonshot/assets/84286086/63e9c612-1b0e-4d8c-b00b-a08ad800ab13" width="200">
 </a>
