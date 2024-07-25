@@ -126,7 +126,7 @@
 <!-- PROJECT 1 -->
 <td valign="top" align="center" width="380"> 
 <h3>GuessTheFlag<a href="https://github.com/ricardonovelot/GuessTheFlag"> 🔗</a></h3>
-<p>Guess The Flag is a game to identify flags from different countries.</p>
+<p>GuessTheFlag is a game to identify flags from different countries.</p>
 <a href="https://github.com/ricardonovelot/GuessTheFlag">
 <img src="https://github.com/ricardonovelot/GuessTheFlag/assets/84286086/e237c6ac-cfc0-4875-8cf2-3636e504adc6" width="200">
 </a>
@@ -142,7 +142,7 @@
 <!-- PROJECT 2 -->
 <td valign="top" align="center" width="380">
 <h3>BookWorms<a href="https://github.com/ricardonovelot/BookWorms"> 🔗</a></h3>
-<p>Bookworms is designed to track books you've read and your thoughts on them.</p>
+<p>Bookworms track books you've read.</p>
 <a href="https://github.com/ricardonovelot/BookWorms">
 <img src="https://github.com/ricardonovelot/BookWorms/assets/84286086/b792b98e-516b-4435-b305-e1f33ece8049" width="200">
 </a>
