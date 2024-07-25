@@ -49,7 +49,8 @@ MVVM
 <p>San Pedro is a concept app designed to provide information on local events.</p>
 <p>
 <a href="https://github.com/ricardonovelot/SanPedroEventGuide"><img src="https://github.com/user-attachments/assets/58372ca1-63d6-423c-a558-08cb18c68cfb" width="32">‏‏</a>
-<a href="https://github.com/ricardonovelot/SanPedroEventGuide">
+</p>
+  <a href="https://github.com/ricardonovelot/SanPedroEventGuide">
 <img src="https://github.com/ricardonovelot/EventosSanPedro/assets/84286086/f582f6ef-5b37-4587-81c0-c827469adf5a" width="200">
 </a>
 <h4>Technical Highlights</h4>
