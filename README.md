@@ -5,7 +5,7 @@
 <h3>🎨 Tech Stack</h3>
 <ul>
   <li>Languages & Frameworks: Swift, SwiftUI, CoreData, SwiftData, MapKit, Core ML, Core Image, C.</li>
-  <li>Software & Tools: Figma, Adobe CC, XCode, TestFlight, Notion, JIRA, UserTesting.com </li>
+  <li>Software & Tools: Figma, Adobe CC, XCode, TestFlight, JIRA, UserTesting.com </li>
   
 </ul>
 
