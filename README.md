@@ -97,15 +97,21 @@ MVVM
 <table>
 <tr>
 <td align="center" width="10000">
-
+ <h4> 
 <img src="https://github.com/user-attachments/assets/aba04acd-68ef-4e72-9b78-79f983e102aa" width="15">
-  <h4> <a href="https://www.linkedin.com/in/ricardo-nlo/">LinkedIn</a> </h4>
+ 
+    <a href="https://www.linkedin.com/in/ricardo-nlo/">LinkedIn</a> 
+  </h4>
 <br>
+<h4> 
   <img src="https://github.com/user-attachments/assets/3d564fbb-13b7-4361-89b9-2cd95fc35370" width="20">
-  <h4> <a href="https://github.com/ricardonovelot/ricardonovelot/blob/main/Old-Projects.md">GitHub</a> Developement </h4>
+    <a href="https://github.com/ricardonovelot/ricardonovelot/blob/main/Old-Projects.md">GitHub</a> Developement 
+  </h4>
 <br>
- <img src="https://github.com/user-attachments/assets/57963869-f8a5-4ad7-9531-440b5ebf04e8" width="25">
-  <h4> <a href="https://www.behance.net/ricardolopezn/projects">Behance</a> UI/UX </h4>
+ <h4>
+   <img src="https://github.com/user-attachments/assets/57963869-f8a5-4ad7-9531-440b5ebf04e8" width="25">
+   <a href="https://www.behance.net/ricardolopezn/projects">Behance</a> UI/UX 
+  </h4>
 <br>
 <br>
 <br>
