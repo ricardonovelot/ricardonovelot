@@ -1,4 +1,4 @@
-<h3><a href="https://github.com/ricardonovelot#-recent-projects">❮‎‎‎ &nbsp; Recent Projects</a></h3>
+<h3><a href="https://github.com/ricardonovelot#-recent-projects">❮‎‎‎ &nbsp; Featured Projects</a></h3>
 
 <h1>Projects Vault</h1>
 
@@ -225,5 +225,5 @@
 
 
 <br>
-<h3 align="center"><a href="https://github.com/ricardonovelot">Go Back to Recent Projects ↩</a></h3>
+<h3 align="center"><a href="https://github.com/ricardonovelot">Go Back to Featured Projects ↩</a></h3>
 <br>
