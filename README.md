@@ -22,7 +22,7 @@
 <td valign="top" align="center" width="380">
 
 <h3>Names</h3>  
-<p>Names is an iOS app designed quickly capture contact notes and names</p>
+<p>Names is a people-centered journal app designed to capture and retrieve contact notes.</p>
 <p>
 <a href="https://github.com/ricardonovelot/Names-Public"><img src="https://github.com/user-attachments/assets/58372ca1-63d6-423c-a558-08cb18c68cfb" width="32">‏‏</a>
 &nbsp;
