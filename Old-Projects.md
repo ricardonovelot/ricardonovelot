@@ -11,7 +11,7 @@
 <td valign="top" align="center" width="380">
   
 <h3>BucketList<a href="https://github.com/ricardonovelot/BucketList"> 🔗</a></h3>  
-<p>BucketList is a Curriculum Project that helps users to catalog travel destinations with descriptions.</p>
+<p>BucketList is a Curriculum Project that helps users to catalog travel destinations.</p>
 <a href="https://github.com/ricardonovelot/BucketList">
 <img src="https://github.com/ricardonovelot/ricardonovelot/assets/84286086/e047d227-08d8-4032-97e4-c6c0a30e07fa" width="200">
 </a>
