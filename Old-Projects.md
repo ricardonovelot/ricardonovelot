@@ -11,7 +11,7 @@
 <td valign="top" align="center" width="380">
   
 <h3>BucketList<a href="https://github.com/ricardonovelot/BucketList"> 🔗</a></h3>  
-<p>BucketList is a curriculum project designed to help users catalog travel destinations.</p>
+<p>BucketList is a curriculum project designed to help users save travel destinations.</p>
 <a href="https://github.com/ricardonovelot/BucketList">
 <img src="https://github.com/ricardonovelot/ricardonovelot/assets/84286086/e047d227-08d8-4032-97e4-c6c0a30e07fa" width="200">
 </a>
@@ -100,7 +100,7 @@
 <!-- PROJECT 6 -->
 <td valign="top" align="center" width="380">
 <h3>MoonShot<a href="https://github.com/ricardonovelot/Moonshot"> 🔗</a></h3>
-<p>Moonshot showcase information on space missions and astronauts in an engaging way.</p>
+<p>Moonshot showcase information on space missions and astronauts.</p>
 <a href="https://github.com/ricardonovelot/Moonshot">
 <img src="https://github.com/ricardonovelot/Moonshot/assets/84286086/63e9c612-1b0e-4d8c-b00b-a08ad800ab13" width="200">
 </a>
@@ -126,7 +126,7 @@
 <!-- PROJECT 1 -->
 <td valign="top" align="center" width="380"> 
 <h3>GuessTheFlag<a href="https://github.com/ricardonovelot/GuessTheFlag"> 🔗</a></h3>
-<p>Guess The Flag challenges users to identify flags from different countries.</p>
+<p>Guess The Flag is a game to identify flags from different countries.</p>
 <a href="https://github.com/ricardonovelot/GuessTheFlag">
 <img src="https://github.com/ricardonovelot/GuessTheFlag/assets/84286086/e237c6ac-cfc0-4875-8cf2-3636e504adc6" width="200">
 </a>
@@ -158,7 +158,7 @@
 <!-- PROJECT 3 -->
 <td valign="top" align="center" width="380">
 <h3>WeSplit<a href="https://github.com/ricardonovelot/WeSplit"> 🔗</a></h3>
-<p>WeSplit is designed to make bill splitting simple and efficient.</p>
+<p>WeSplit calculates bill splitting.</p>
 <a href="https://github.com/ricardonovelot/WeSplit">
 <img src="https://github.com/ricardonovelot/WeSplit/assets/84286086/3af0962b-8838-441b-8f25-139231efb13a" width="200">
 </a>
