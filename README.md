@@ -42,7 +42,7 @@ MVVM
 <td valign="top" align="center" width="380">
   
 <h3>San Pedro, Event Guide<a href="https://github.com/ricardonovelot/SanPedroEventGuide"></a></h3>  
-<p>Discover handpicked local events. San Pedro is a concept app.</p>
+<p>Discover handpicked local events. San Pedro is a proof-of-concept demo.</p>
 <p>
 <a href="https://github.com/ricardonovelot/SanPedroEventGuide"><img src="https://github.com/user-attachments/assets/58372ca1-63d6-423c-a558-08cb18c68cfb" width="32">‏‏</a>
 </p>
