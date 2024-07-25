@@ -60,7 +60,7 @@ MVVM
 
 <!-- PROJECT 3 -->
 
-<td valign="center" align="center" width="320" >
+<td valign="center" align="center" width="240" >
 
 
 <h3 align="center"><a href="https://github.com/ricardonovelot/ricardonovelot/blob/main/Old-Projects.md">See More<br>‎‎‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎Here!</a> ↩</h3>
