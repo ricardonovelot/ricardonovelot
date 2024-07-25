@@ -9,10 +9,6 @@
   
 </ul>
 
-<h3>Professional Goal</h3>
-<p>My immediate goal is to master mobile design. I aspire to join a company where I can contribute to impactful projects.</p>
-
-
 <h3>Featured Projects</h3>
 <table>
 <tr>
