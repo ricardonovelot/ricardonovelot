@@ -23,6 +23,8 @@
 <td valign="top" align="center" width="380">
   
 <h3>Names<a href="https://github.com/ricardonovelot/Names"> 🔗</a></h3>  
+<p>TestFlight<a href="https://testflight.apple.com/join/NuON0fEq"> 🔗</a></p>  
+
 <p>Names is an iOS app designed quickly capture contact notes and names</p>
 <a href="https://github.com/ricardonovelot/Names">
 <img src="https://github.com/user-attachments/assets/41a6a1ac-ee93-4960-a0a9-3ff324aba93d" width="200">
