@@ -22,9 +22,8 @@
 
 <td valign="top" align="center" width="380">
   
-<h3>Names<a href="https://github.com/ricardonovelot/Names"> 🔗</a> <img src="https://github.com/user-attachments/assets/dec43547-ad97-4889-8d0c-fa361ef7dee2" width="15">
-</h3>  
-<p><a href="https://testflight.apple.com/join/NuON0fEq">TestFlight‏‏‎‎‏</a>‏‏‎ ‎‏‏‎ ‎</p>  
+<h3>Names<a href="https://github.com/ricardonovelot/Names"> 🔗</a></h3>  
+<a href="https://testflight.apple.com/join/NuON0fEq"><img src="https://github.com/user-attachments/assets/dec43547-ad97-4889-8d0c-fa361ef7dee2" width="15">‏‏</a>
 
 <p>Names is an iOS app designed quickly capture contact notes and names</p>
 <a href="https://github.com/ricardonovelot/Names">
