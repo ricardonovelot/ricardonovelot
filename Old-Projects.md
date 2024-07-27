@@ -11,7 +11,7 @@
 <td valign="top" align="center" width="380">
   
 <h3>BucketList<a href="https://github.com/ricardonovelot/BucketList"> 🔗</a></h3>  
-<p>BucketList is a curriculum project designed to help users save travel destinations.</p>
+<p>BucketList is a curriculum project designed to save travel destinations.</p>
 <a href="https://github.com/ricardonovelot/BucketList">
 <img src="https://github.com/ricardonovelot/ricardonovelot/assets/84286086/e047d227-08d8-4032-97e4-c6c0a30e07fa" width="200">
 </a>
@@ -30,7 +30,7 @@
 <td valign="top" align="center" width="380">
   
 <h3>GuessTheFlag<a href="https://github.com/ricardonovelot/GuessTheFlag"> 🔗</a></h3>
-<p>GuessTheFlag is a game to identify flags from different countries.</p>
+<p>GuessTheFlag is a simple game to identify flags from different countries.</p>
 <a href="https://github.com/ricardonovelot/GuessTheFlag">
 <img src="https://github.com/ricardonovelot/GuessTheFlag/assets/84286086/e237c6ac-cfc0-4875-8cf2-3636e504adc6" width="200">
 </a>
