@@ -29,7 +29,7 @@
 <h4>Technical Highlights</h4>
 <p>
 CoreData<br>
-SwiftUI<br>
+CloudKit<br>
 MVVM
 </p>
 <br>
