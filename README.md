@@ -12,7 +12,6 @@
 <h3>Featured Projects</h3>
 <table>
 <tr>
-
 <!-- PROJECT 1 -->
 
 <td valign="top" align="center" width="380">
@@ -25,7 +24,7 @@
 <a href="https://testflight.apple.com/join/NuON0fEq"><img src="https://github.com/user-attachments/assets/0926df5d-a3be-4109-bcce-3a72e078b4e1" width="32">‏‏</a> 
 </p>
 <a href="https://github.com/ricardonovelot/Names-Public">
-<img src="https://github.com/user-attachments/assets/27b0ec84-3f27-46a3-b395-bcbb87825147" width="200">
+<img src="https://github.com/user-attachments/assets/3a4f9d10-0395-4a90-b206-b4af0f6c6f66" width="200">
 </a>
 <h4>Technical Highlights</h4>
 <p>
