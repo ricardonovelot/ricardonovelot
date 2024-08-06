@@ -203,7 +203,24 @@
 
 <!-- PROJECT 2 -->  
 <td valign="top" align="left" width="380">
+
+  <h3>Today<a href="https://github.com/ricardonovelot/RememberPeople"> 🔗</a></h3>
+<p>Filter important reminders</p>
+<a href="https://github.com/ricardonovelot/Today">
+<img src="https://github.com/ricardonovelot/RememberPeople/assets/84286086/." width="200">
+</a>
+<h4>Technical Highlights</h4>
+<p>
+  UIKit<br>
+</p>
+<br>
+
   
+</td>
+
+<!-- PROJECT 3 -->
+<td valign="top" align="center" width="380">
+
 <h3>Undocumented Projects</h3>
 <ol>
 <li>Prospects<a href="https://github.com/ricardonovelot/Prospects"> 🔗</a></li>
@@ -214,11 +231,6 @@
 <li>BetterRest</li>
 <li>Word Scramble</li>
 </ol>
-  
-</td>
-
-<!-- PROJECT 3 -->
-<td valign="top" align="center" width="380">
 
 </td>
 
