@@ -235,7 +235,7 @@
 </td>
 
 <!-- END TABLE 4 -->
-</tr>![exportA85947D7-EF96-4252-B3A0-6EF9613C8D69](https://github.com/user-attachments/assets/aa995d84-6dbf-4c19-b72c-29e7d675d7af)
+</tr>
 
 </table>
 <!-- END TABLE 4 -->
