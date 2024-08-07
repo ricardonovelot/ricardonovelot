@@ -213,6 +213,7 @@
 <h4>Technical Highlights</h4>
 <p>
   UIKit<br>
+  MVC<br>
 </p>
   <h6>Project in Progress</h6>
 <br>
