@@ -30,7 +30,6 @@
 <p>
 CoreData<br>
 CloudKit<br>
-MVVM
 </p>
 <br>
 
