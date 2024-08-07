@@ -205,9 +205,10 @@
 <td valign="top" align="center" width="380">
 
   <h3>Today<a href="https://github.com/ricardonovelot/RememberPeople"> 🔗</a></h3>
+  <h6>Project in Progress</h6>
 <p>Filter important reminders</p>
 <a href="https://github.com/ricardonovelot/Today">
-<img src="https://github.com/user-attachments/assets/aa995d84-6dbf-4c19-b72c-29e7d675d7af" width="200">
+<img src="https://github.com/user-attachments/assets/dc6b4786-dd8f-4daa-ade8-5e253d5e959b" width="200">
 </a>
 <h4>Technical Highlights</h4>
 <p>
