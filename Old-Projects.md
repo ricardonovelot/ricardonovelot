@@ -161,16 +161,20 @@
 
 <!-- PROJECT 3 -->
 <td valign="top" align="center" width="380">
-<h3>WeSplit<a href="https://github.com/ricardonovelot/WeSplit"> 🔗</a></h3>
-<p>WeSplit calculates bill splitting.</p>
-<a href="https://github.com/ricardonovelot/WeSplit">
-<img src="https://github.com/ricardonovelot/WeSplit/assets/84286086/3af0962b-8838-441b-8f25-139231efb13a" width="200">
+
+<h3>Today<a href="https://github.com/ricardonovelot/RememberPeople"> 🔗</a></h3>
+<p>Filter important reminders</p>
+<a href="https://github.com/ricardonovelot/Today">
+<img src="https://github.com/user-attachments/assets/dc6b4786-dd8f-4daa-ade8-5e253d5e959b" width="200">
 </a>
 <h4>Technical Highlights</h4>
 <p>
-  <code>@State</code> and <code>@FocusState</code><br>
-  <code>TextField</code> and <code>Picker</code>
+  UIKit<br>
+  MVC<br>
 </p>
+  <h6>Project in Progress</h6>
+<br>
+  
 </td>
 
 <!-- END TABLE 3 -->
@@ -204,37 +208,33 @@
 <!-- PROJECT 2 -->  
 <td valign="top" align="center" width="380">
 
-  <h3>Today<a href="https://github.com/ricardonovelot/RememberPeople"> 🔗</a></h3>
-
-<p>Filter important reminders</p>
-<a href="https://github.com/ricardonovelot/Today">
-<img src="https://github.com/user-attachments/assets/dc6b4786-dd8f-4daa-ade8-5e253d5e959b" width="200">
+<h3>WeSplit<a href="https://github.com/ricardonovelot/WeSplit"> 🔗</a></h3>
+<p>WeSplit calculates bill splitting.</p>
+<a href="https://github.com/ricardonovelot/WeSplit">
+<img src="https://github.com/ricardonovelot/WeSplit/assets/84286086/3af0962b-8838-441b-8f25-139231efb13a" width="200">
 </a>
 <h4>Technical Highlights</h4>
 <p>
-  UIKit<br>
-  MVC<br>
+  <code>@State</code> and <code>@FocusState</code><br>
+  <code>TextField</code> and <code>Picker</code>
 </p>
-  <h6>Project in Progress</h6>
-<br>
-
-
   
 </td>
 
 <!-- PROJECT 3 -->
 <td valign="top" align="left" width="380">
 
-<h3>Undocumented Projects</h3>
-<ol>
-<li>Prospects<a href="https://github.com/ricardonovelot/Prospects"> 🔗</a></li>
-<li>First Android App<a href="https://github.com/ricardonovelot/FirstAndroidApp"> 🔗</a></li>
-<li>iExpense<a href="https://github.com/ricardonovelot/iExpense"> 🔗</a></li>
-<li>Edutainment<a href="https://github.com/ricardonovelot/Edutainment"> 🔗</a></li>
-<li>Rock Paper Scissors</li>
-<li>BetterRest</li>
-<li>Word Scramble</li>
-</ol>
+<h3>HotProscpects<a href="https://github.com/ricardonovelot/HotProscpects"> 🔗</a></h3>
+<p>Collect </p>
+<a href="https://github.com/ricardonovelot/HotProscpects">
+<img src="https://github.com/user-attachments/assets/bee86fa3-cbd9-4bab-a2f5-7ed74983ab35" width="200">
+</a>
+<h4>Technical Highlights</h4>
+<p>
+  QR<br>
+  PhotosUI<br>
+</p>
+<br>
 
 </td>
 
@@ -252,18 +252,17 @@
   
 <!-- PROJECT 1 -->
 <td valign="top" align="center" width="380">
-  
-<h3>HotProscpects<a href="https://github.com/ricardonovelot/HotProscpects"> 🔗</a></h3>
-<p>Collect </p>
-<a href="https://github.com/ricardonovelot/HotProscpects">
-<img src="https://github.com/user-attachments/assets/bee86fa3-cbd9-4bab-a2f5-7ed74983ab35" width="200">
-</a>
-<h4>Technical Highlights</h4>
-<p>
-  QR<br>
-  PhotosUI<br>
-</p>
-<br>
+
+<h3>Undocumented Projects</h3>
+<ol>
+<li>Prospects<a href="https://github.com/ricardonovelot/Prospects"> 🔗</a></li>
+<li>First Android App<a href="https://github.com/ricardonovelot/FirstAndroidApp"> 🔗</a></li>
+<li>iExpense<a href="https://github.com/ricardonovelot/iExpense"> 🔗</a></li>
+<li>Edutainment<a href="https://github.com/ricardonovelot/Edutainment"> 🔗</a></li>
+<li>Rock Paper Scissors</li>
+<li>BetterRest</li>
+<li>Word Scramble</li>
+</ol>
   
 </td>
 
