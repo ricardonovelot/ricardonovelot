@@ -61,7 +61,7 @@ CloudKit<br>
 <td valign="center" align="center" width="240" >
 
 
-<h2 align="center"><a href="https://github.com/ricardonovelot/ricardonovelot/blob/main/Old-Projects.md">See More<br>‎‎‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎Here!</a> ↩</h2>
+<h3 align="center"><a href="https://github.com/ricardonovelot/ricardonovelot/blob/main/Old-Projects.md">See More<br>‎‎‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎Here!</a> ↩</h3>
 <br>
 <br>
 <br>
@@ -97,7 +97,7 @@ CloudKit<br>
 <td align="center" width="10000">
 <h6> 
   <img src="https://github.com/user-attachments/assets/3d564fbb-13b7-4361-89b9-2cd95fc35370" width="20">
-    <a href="https://github.com/ricardonovelot/ricardonovelot">GitHub</a> Developement 
+    <a href="https://github.com/ricardonovelot/ricardonovelot/blob/main/Old-Projects.md">GitHub</a> Developement Projects
 </h6>
 <h6>
    <img src="https://github.com/user-attachments/assets/57963869-f8a5-4ad7-9531-440b5ebf04e8" width="25">
