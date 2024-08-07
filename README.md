@@ -101,7 +101,7 @@ CloudKit<br>
 </h6>
 <h6>
    <img src="https://github.com/user-attachments/assets/57963869-f8a5-4ad7-9531-440b5ebf04e8" width="25">
-   <a href="https://www.behance.net/ricardolopezn/projects">Behance</a> UI/UX Design
+   <a href="https://www.behance.net/ricardolopezn/projects">Behance</a> Product Design
 </h6>
   <h6> 
 <img src="https://github.com/user-attachments/assets/aba04acd-68ef-4e72-9b78-79f983e102aa" width="15">
