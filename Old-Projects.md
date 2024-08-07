@@ -224,9 +224,9 @@
 <!-- PROJECT 3 -->
 <td valign="top" align="center" width="380">
 
-<h3>Prospects<a href="https://github.com/ricardonovelot/Proscpects"> 🔗</a></h3>
+<h3>Prospects<a href="https://github.com/ricardonovelot/Prospects"> 🔗</a></h3>
 <p>Track who you meet at conferences with QR codes</p>
-<a href="https://github.com/ricardonovelot/Proscpects">
+<a href="https://github.com/ricardonovelot/Prospects">
 <img src="https://github.com/user-attachments/assets/bee86fa3-cbd9-4bab-a2f5-7ed74983ab35" width="200">
 </a>
 <h4>Technical Highlights</h4>
