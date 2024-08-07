@@ -255,7 +255,6 @@
 
 <h3>Undocumented Projects</h3>
 <ol>
-<li>Prospects<a href="https://github.com/ricardonovelot/Prospects"> 🔗</a></li>
 <li>First Android App<a href="https://github.com/ricardonovelot/FirstAndroidApp"> 🔗</a></li>
 <li>iExpense<a href="https://github.com/ricardonovelot/iExpense"> 🔗</a></li>
 <li>Edutainment<a href="https://github.com/ricardonovelot/Edutainment"> 🔗</a></li>
