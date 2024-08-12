@@ -275,7 +275,7 @@
 <h3>Rock Paper Scissors<a href="https://github.com/ricardonovelot/RockPaperScissors"> 🔗</a></h3>
 <p>Play Rock Paper Scissors</p>
 <a href="https://github.com/ricardonovelot/RockPaperScissors">
-<img src="https://github.com/user-attachments/assets/e3b0ee28-c45e-459d-acb9-b1cbaa5665eb" width="400">
+<img src="https://github.com/user-attachments/assets/e3b0ee28-c45e-459d-acb9-b1cbaa5665eb" width="200">
 </a>
 <h4></h4>
 
