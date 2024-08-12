@@ -9,9 +9,27 @@
   
 <!-- PROJECT 1 -->
 <td valign="top" align="center" width="380">
+
+<h3>Today<a href="https://github.com/ricardonovelot/RememberPeople"> 🔗</a></h3>
+<p>Today is a curriculum project to create reminders</p>
+<a href="https://github.com/ricardonovelot/Today">
+<img src="https://github.com/user-attachments/assets/dc6b4786-dd8f-4daa-ade8-5e253d5e959b" width="200">
+</a>
+<h4>Technical Highlights</h4>
+<p>
+  UIKit<br>
+  MVC<br>
+</p>
+  <h6>Project in Progress</h6>
+<br>
   
+</td>
+
+<!-- PROJECT 2 -->  
+<td valign="top" align="center" width="380">
+
 <h3>BucketList<a href="https://github.com/ricardonovelot/BucketList"> 🔗</a></h3>  
-<p>BucketList is a curriculum project designed to save travel destinations.</p>
+<p>BucketList is designed to save travel destinations.</p>
 <a href="https://github.com/ricardonovelot/BucketList">
 <img src="https://github.com/ricardonovelot/ricardonovelot/assets/84286086/e047d227-08d8-4032-97e4-c6c0a30e07fa" width="200">
 </a>
@@ -21,24 +39,6 @@
   Wikipedia API<br>
   MapKit<br>
   Documents Directory
-</p>
-<br>
-  
-</td>
-
-<!-- PROJECT 2 -->  
-<td valign="top" align="center" width="380">
-  
-<h3>GuessTheFlag<a href="https://github.com/ricardonovelot/GuessTheFlag"> 🔗</a></h3>
-<p>GuessTheFlag is a simple game to identify flags from different countries.</p>
-<a href="https://github.com/ricardonovelot/GuessTheFlag">
-<img src="https://github.com/ricardonovelot/GuessTheFlag/assets/84286086/e237c6ac-cfc0-4875-8cf2-3636e504adc6" width="200">
-</a>
-<h4>Technical Highlights</h4>
-<p>
-  Voiceover Optimization<br>
-  Animations<br>
-  Alerts
 </p>
 <br>
 
@@ -162,17 +162,17 @@
 <!-- PROJECT 3 -->
 <td valign="top" align="center" width="380">
 
-<h3>Today<a href="https://github.com/ricardonovelot/RememberPeople"> 🔗</a></h3>
-<p>Filter important reminders</p>
-<a href="https://github.com/ricardonovelot/Today">
-<img src="https://github.com/user-attachments/assets/dc6b4786-dd8f-4daa-ade8-5e253d5e959b" width="200">
+<h3>GuessTheFlag<a href="https://github.com/ricardonovelot/GuessTheFlag"> 🔗</a></h3>
+<p>GuessTheFlag is a simple game to identify flags from different countries.</p>
+<a href="https://github.com/ricardonovelot/GuessTheFlag">
+<img src="https://github.com/ricardonovelot/GuessTheFlag/assets/84286086/e237c6ac-cfc0-4875-8cf2-3636e504adc6" width="200">
 </a>
 <h4>Technical Highlights</h4>
 <p>
-  UIKit<br>
-  MVC<br>
+  Voiceover Optimization<br>
+  Animations<br>
+  Alerts
 </p>
-  <h6>Project in Progress</h6>
 <br>
   
 </td>
