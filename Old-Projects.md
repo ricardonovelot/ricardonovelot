@@ -251,7 +251,7 @@
 <!-- START TABLE 5 -->
   
 <!-- PROJECT 1 -->
-<td valign="top" align="left" width="380">
+<td valign="top" align="center" width="380">
 
 <h3>Flashzilla<a href="https://github.com/ricardonovelot/Flashzilla"> 🔗</a></h3>
 <p>Learn things using flashcards</p>
@@ -272,7 +272,11 @@
 <!-- PROJECT 2 -->  
 <td valign="top" align="center" width="380">
 
-
+<h3>Rock Paper Scissors<a href="https://github.com/ricardonovelot/RockPaperScissors"> 🔗</a></h3>
+<p>Play Rock Paper Scissors</p>
+<a href="https://github.com/ricardonovelot/RockPaperScissors">
+<img src="https://github.com/user-attachments/assets/e3b0ee28-c45e-459d-acb9-b1cbaa5665eb" width="400">
+</a>
   
 </td>
 
@@ -280,8 +284,8 @@
 <td valign="top" align="left" width="380">
 
 <h3>Undocumented Projects</h3>
+
 <ol>
-<li>Flashzilla</li>
 <li>First Android App<a href="https://github.com/ricardonovelot/FirstAndroidApp"> 🔗</a></li>
 <li>iExpense<a href="https://github.com/ricardonovelot/iExpense"> 🔗</a></li>
 <li>Edutainment<a href="https://github.com/ricardonovelot/Edutainment"> 🔗</a></li>
