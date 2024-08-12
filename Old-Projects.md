@@ -253,16 +253,19 @@
 <!-- PROJECT 1 -->
 <td valign="top" align="left" width="380">
 
-<h3>Undocumented Projects</h3>
-<ol>
-<li>Flashzilla</li>
-<li>First Android App<a href="https://github.com/ricardonovelot/FirstAndroidApp"> 🔗</a></li>
-<li>iExpense<a href="https://github.com/ricardonovelot/iExpense"> 🔗</a></li>
-<li>Edutainment<a href="https://github.com/ricardonovelot/Edutainment"> 🔗</a></li>
-<li>Rock Paper Scissors</li>
-<li>BetterRest</li>
-<li>Word Scramble</li>
-</ol>
+<h3>Flashzilla<a href="https://github.com/ricardonovelot/Flashzilla"> 🔗</a></h3>
+<p>Learn things using flashcards</p>
+<a href="https://github.com/ricardonovelot/Flashzilla">
+<img src="https://github.com/user-attachments/assets/4013afad-5ec0-4322-a308-294d404c7002" width="400">
+</a>
+<h4>Technical Highlights</h4>
+
+<p>
+  Gestures<br>
+  Timers<br>
+  <code>scenePhase</code>
+</p>
+<br>
   
 </td>
 
@@ -276,7 +279,16 @@
 <!-- PROJECT 3 -->
 <td valign="top" align="left" width="380">
 
-
+<h3>Undocumented Projects</h3>
+<ol>
+<li>Flashzilla</li>
+<li>First Android App<a href="https://github.com/ricardonovelot/FirstAndroidApp"> 🔗</a></li>
+<li>iExpense<a href="https://github.com/ricardonovelot/iExpense"> 🔗</a></li>
+<li>Edutainment<a href="https://github.com/ricardonovelot/Edutainment"> 🔗</a></li>
+<li>Rock Paper Scissors</li>
+<li>BetterRest</li>
+<li>Word Scramble</li>
+</ol>
 
 </td>
 
