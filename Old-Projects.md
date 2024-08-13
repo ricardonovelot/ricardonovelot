@@ -333,12 +333,12 @@
 <!-- PROJECT 3 -->
 <td valign="top" align="left" width="380">
 
-<h3>Undocumented Projects</h3>
+<h3>iExpense<a href="https://github.com/ricardonovelot/iExpense"> 🔗</a></h3>
+<p>Register your expenses</p>
+<a href="https://github.com/ricardonovelot/iExpense">
+<img src="https://github.com/user-attachments/assets/3ad0f9fc-6af7-42bd-9664-ed16877da293" width="200">
+</a>
 
-<ol>
-<li>First Android App<a href="https://github.com/ricardonovelot/FirstAndroidApp"> 🔗</a></li>
-<li>iExpense<a href="https://github.com/ricardonovelot/iExpense"> 🔗</a></li>
-</ol>
 
 </td>
 
@@ -347,6 +347,39 @@
 
 </table>
 <!-- END TABLE 6 -->
+
+<!-- START TABLE 7 -->
+<table>
+<tr>
+<!-- START TABLE 7 -->
+  
+<!-- PROJECT 1 -->
+<td valign="top" align="center" width="380">
+
+<h3>Undocumented Projects</h3>
+
+<ol>
+<li>First Android App<a href="https://github.com/ricardonovelot/FirstAndroidApp"> 🔗</a></li>
+</ol>
+
+</td>
+
+<!-- PROJECT 2 -->  
+<td valign="top" align="center" width="380">
+  
+
+
+<!-- PROJECT 3 -->
+<td valign="top" align="left" width="380">
+
+
+</td>
+
+<!-- END TABLE 7 -->
+</tr>
+
+</table>
+<!-- END TABLE 7 -->
 
 
 <br>
