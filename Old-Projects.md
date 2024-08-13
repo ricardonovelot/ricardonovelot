@@ -260,7 +260,11 @@
 <p>Learn things using flashcards</p>
 <a href="https://github.com/ricardonovelot/Flashzilla">
 <br>
+<br>
+<br>
 <img src="https://github.com/user-attachments/assets/4013afad-5ec0-4322-a308-294d404c7002" width="400">
+<br>
+<br>
 <br>
 </a>
 <h4>Technical Highlights</h4>
