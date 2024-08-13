@@ -309,7 +309,7 @@
 <h3>BetterRest<a href="https://github.com/ricardonovelot/BetterRest"> 🔗</a></h3>
 <p>Calculate a good night’s sleep for coffee drinkers</p>
 <a href="https://github.com/ricardonovelot/BetterRest">
-<img src="https://github.com/user-attachments/assets/6f0393d4-9c3b-49c3-8a15-128293301b6a" width="200">
+<img src="https://github.com/user-attachments/assets/c63ec7c8-a424-4837-8f02-e91b3c51ed27" width="200">
 </a>
 <h4>Technical Highlights</h4>
 
@@ -321,10 +321,14 @@
 </td>
 
 <!-- PROJECT 2 -->  
-
-
+<td valign="top" align="center" width="380">
   
-</td>
+<h3>Word Scramble<a href="https://github.com/ricardonovelot/WordScramble"> 🔗</a></h3>
+<p>Make as many words possible!</p>
+<a href="https://github.com/ricardonovelot/WordScramble">
+<img src="https://github.com/user-attachments/assets/cd3d092f-a48e-459e-b2c7-a9b23c8ce35a" width="200">
+</a>
+
 
 <!-- PROJECT 3 -->
 <td valign="top" align="left" width="380">
@@ -334,9 +338,6 @@
 <ol>
 <li>First Android App<a href="https://github.com/ricardonovelot/FirstAndroidApp"> 🔗</a></li>
 <li>iExpense<a href="https://github.com/ricardonovelot/iExpense"> 🔗</a></li>
-<li>Edutainment<a href="https://github.com/ricardonovelot/Edutainment"> 🔗</a></li>
-<li>BetterRest</li>
-<li>Word Scramble</li>
 </ol>
 
 </td>
