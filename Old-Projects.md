@@ -73,16 +73,19 @@
   
 <!-- PROJECT 4 -->  
 <td valign="top" align="center" width="380">
-<h3>CupcakeCorner<a href="https://github.com/ricardonovelot/CupcakeCorner"> 🔗</a></h3>
-<p>CupcakeCorner showcases how to make custom orders over the internet.</p>
-<a href="https://github.com/ricardonovelot/CupcakeCorner">
-<img src="https://github.com/ricardonovelot/CupcakeCorner/assets/84286086/bb06f24a-c1c0-4747-9a6e-aab632c614ba" width="200">
+  
+<h3>BetterRest<a href="https://github.com/ricardonovelot/BetterRest"> 🔗</a></h3>
+<p>Calculate a good night’s sleep for coffee drinkers</p>
+<a href="https://github.com/ricardonovelot/BetterRest">
+<img src="https://github.com/user-attachments/assets/c63ec7c8-a424-4837-8f02-e91b3c51ed27" width="200">
 </a>
 <h4>Technical Highlights</h4>
+
 <p>
-  <code>URLSession</code><br>
+  Core ML<br>
 </p>
 <br>
+  
 </td>
 
 <!-- PROJECT 5 -->
@@ -283,15 +286,14 @@
 <!-- PROJECT 3 -->
 <td valign="top" align="center" width="380">
 
-<h3>BetterRest<a href="https://github.com/ricardonovelot/BetterRest"> 🔗</a></h3>
-<p>Calculate a good night’s sleep for coffee drinkers</p>
-<a href="https://github.com/ricardonovelot/BetterRest">
-<img src="https://github.com/user-attachments/assets/c63ec7c8-a424-4837-8f02-e91b3c51ed27" width="200">
+<h3>CupcakeCorner<a href="https://github.com/ricardonovelot/CupcakeCorner"> 🔗</a></h3>
+<p>CupcakeCorner showcases how to make custom orders over the internet.</p>
+<a href="https://github.com/ricardonovelot/CupcakeCorner">
+<img src="https://github.com/ricardonovelot/CupcakeCorner/assets/84286086/bb06f24a-c1c0-4747-9a6e-aab632c614ba" width="200">
 </a>
 <h4>Technical Highlights</h4>
-
 <p>
-  Core ML<br>
+  <code>URLSession</code><br>
 </p>
 <br>
 
