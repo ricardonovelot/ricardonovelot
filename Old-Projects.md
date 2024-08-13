@@ -277,14 +277,52 @@
 <a href="https://github.com/ricardonovelot/RockPaperScissors">
 <img src="https://github.com/user-attachments/assets/e3b0ee28-c45e-459d-acb9-b1cbaa5665eb" width="200">
 </a>
-<h4></h4>
+  
+</td>
+
+<!-- PROJECT 3 -->
+<td valign="top" align="center" width="380">
+
+<h3>Edutainment<a href="https://github.com/ricardonovelot/Edutainment2"> 🔗</a></h3>
+<p>Practice Multiplication Tables</p>
+<a href="https://github.com/ricardonovelot/Edutainment2">
+<img src="https://github.com/user-attachments/assets/31ddd2f6-0182-4d92-b851-21bbeacb1b4f" width="200">
+</a>
+
+</td>
+
+<!-- END TABLE 5 -->
+</tr>
+
+</table>
+<!-- END TABLE 5 -->
+
+
+<!-- START TABLE 6 -->
+<table>
+<tr>
+<!-- START TABLE 6 -->
+  
+<!-- PROJECT 1 -->
+<td valign="top" align="center" width="380">
+
+<h3>BetterRest<a href="https://github.com/ricardonovelot/BetterRest"> 🔗</a></h3>
+<p>Calculate a good night’s sleep for coffee drinkers</p>
+<a href="https://github.com/ricardonovelot/BetterRest">
+<img src="https://github.com/user-attachments/assets/6f0393d4-9c3b-49c3-8a15-128293301b6a" width="200">
+</a>
+<h4>Technical Highlights</h4>
 
 <p>
-  <br>
-  <br>
-  
+  Core ML<br>
 </p>
 <br>
+  
+</td>
+
+<!-- PROJECT 2 -->  
+
+
   
 </td>
 
@@ -297,18 +335,17 @@
 <li>First Android App<a href="https://github.com/ricardonovelot/FirstAndroidApp"> 🔗</a></li>
 <li>iExpense<a href="https://github.com/ricardonovelot/iExpense"> 🔗</a></li>
 <li>Edutainment<a href="https://github.com/ricardonovelot/Edutainment"> 🔗</a></li>
-<li>Rock Paper Scissors</li>
 <li>BetterRest</li>
 <li>Word Scramble</li>
 </ol>
 
 </td>
 
-<!-- END TABLE 5 -->
+<!-- END TABLE 6 -->
 </tr>
 
 </table>
-<!-- END TABLE 5 -->
+<!-- END TABLE 6 -->
 
 
 <br>
