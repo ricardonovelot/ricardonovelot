@@ -283,11 +283,17 @@
 <!-- PROJECT 3 -->
 <td valign="top" align="center" width="380">
 
-<h3>Edutainment<a href="https://github.com/ricardonovelot/Edutainment2"> 🔗</a></h3>
-<p>Practice Multiplication Tables</p>
-<a href="https://github.com/ricardonovelot/Edutainment2">
-<img src="https://github.com/user-attachments/assets/31ddd2f6-0182-4d92-b851-21bbeacb1b4f" width="200">
+<h3>BetterRest<a href="https://github.com/ricardonovelot/BetterRest"> 🔗</a></h3>
+<p>Calculate a good night’s sleep for coffee drinkers</p>
+<a href="https://github.com/ricardonovelot/BetterRest">
+<img src="https://github.com/user-attachments/assets/c63ec7c8-a424-4837-8f02-e91b3c51ed27" width="200">
 </a>
+<h4>Technical Highlights</h4>
+
+<p>
+  Core ML<br>
+</p>
+<br>
 
 </td>
 
@@ -306,17 +312,11 @@
 <!-- PROJECT 1 -->
 <td valign="top" align="center" width="380">
 
-<h3>BetterRest<a href="https://github.com/ricardonovelot/BetterRest"> 🔗</a></h3>
-<p>Calculate a good night’s sleep for coffee drinkers</p>
-<a href="https://github.com/ricardonovelot/BetterRest">
-<img src="https://github.com/user-attachments/assets/c63ec7c8-a424-4837-8f02-e91b3c51ed27" width="200">
+<h3>Edutainment<a href="https://github.com/ricardonovelot/Edutainment2"> 🔗</a></h3>
+<p>Practice Multiplication Tables</p>
+<a href="https://github.com/ricardonovelot/Edutainment2">
+<img src="https://github.com/user-attachments/assets/31ddd2f6-0182-4d92-b851-21bbeacb1b4f" width="200">
 </a>
-<h4>Technical Highlights</h4>
-
-<p>
-  Core ML<br>
-</p>
-<br>
   
 </td>
 
@@ -331,7 +331,7 @@
 
 
 <!-- PROJECT 3 -->
-<td valign="top" align="left" width="380">
+<td valign="top" align="center" width="380">
 
 <h3>iExpense<a href="https://github.com/ricardonovelot/iExpense"> 🔗</a></h3>
 <p>Register your expenses</p>
@@ -354,7 +354,7 @@
 <!-- START TABLE 7 -->
   
 <!-- PROJECT 1 -->
-<td valign="top" align="center" width="380">
+<td valign="top" align="left" width="380">
 
 <h3>Undocumented Projects</h3>
 
@@ -370,7 +370,7 @@
 
 
 <!-- PROJECT 3 -->
-<td valign="top" align="left" width="380">
+<td valign="top" align="center" width="380">
 
 
 </td>
