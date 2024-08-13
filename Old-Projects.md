@@ -319,9 +319,9 @@
 <!-- PROJECT 1 -->
 <td valign="top" align="center" width="380">
 
-<h3>Edutainment<a href="https://github.com/ricardonovelot/Edutainment2"> 🔗</a></h3>
+<h3>Edutainment<a href="https://github.com/ricardonovelot/Edutainment"> 🔗</a></h3>
 <p>Practice Multiplication Tables</p>
-<a href="https://github.com/ricardonovelot/Edutainment2">
+<a href="https://github.com/ricardonovelot/Edutainment">
 <img src="https://github.com/user-attachments/assets/31ddd2f6-0182-4d92-b851-21bbeacb1b4f" width="200">
 </a>
   
@@ -355,6 +355,8 @@
 </table>
 <!-- END TABLE 6 -->
 
+<br>
+<br>
 
 <h3>Undocumented Projects</h3>
 
