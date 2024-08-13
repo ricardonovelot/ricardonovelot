@@ -355,38 +355,12 @@
 </table>
 <!-- END TABLE 6 -->
 
-<!-- START TABLE 7 -->
-<table>
-<tr>
-<!-- START TABLE 7 -->
-  
-<!-- PROJECT 1 -->
-<td valign="top" align="left" width="380">
 
 <h3>Undocumented Projects</h3>
 
 <ol>
 <li>First Android App<a href="https://github.com/ricardonovelot/FirstAndroidApp"> 🔗</a></li>
 </ol>
-
-</td>
-
-<!-- PROJECT 2 -->  
-<td valign="top" align="center" width="380">
-  
-
-
-<!-- PROJECT 3 -->
-<td valign="top" align="center" width="380">
-
-
-</td>
-
-<!-- END TABLE 7 -->
-</tr>
-
-</table>
-<!-- END TABLE 7 -->
 
 
 <br>
