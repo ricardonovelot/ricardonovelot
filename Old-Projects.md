@@ -259,7 +259,9 @@
 <h3>Flashzilla<a href="https://github.com/ricardonovelot/Flashzilla"> 🔗</a></h3>
 <p>Learn things using flashcards</p>
 <a href="https://github.com/ricardonovelot/Flashzilla">
+<br>
 <img src="https://github.com/user-attachments/assets/4013afad-5ec0-4322-a308-294d404c7002" width="400">
+<br>
 </a>
 <h4>Technical Highlights</h4>
 
@@ -287,7 +289,7 @@
 <td valign="top" align="center" width="380">
 
 <h3>CupcakeCorner<a href="https://github.com/ricardonovelot/CupcakeCorner"> 🔗</a></h3>
-<p>CupcakeCorner showcases how to make custom orders over the internet.</p>
+<p>Make custom orders over the internet.</p>
 <a href="https://github.com/ricardonovelot/CupcakeCorner">
 <img src="https://github.com/ricardonovelot/CupcakeCorner/assets/84286086/bb06f24a-c1c0-4747-9a6e-aab632c614ba" width="200">
 </a>
@@ -295,7 +297,6 @@
 <p>
   <code>URLSession</code><br>
 </p>
-<br>
 
 </td>
 
