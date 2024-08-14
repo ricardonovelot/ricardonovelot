@@ -1,6 +1,6 @@
 <h3><a href="https://github.com/ricardonovelot#-recent-projects">❮‎‎‎ &nbsp; Featured Projects</a></h3>
 
-<h1>Projects Vault</h1>
+<h1>Curriculum Projects</h1>
 
 <!-- START TABLE 1 -->
 <table>
@@ -11,7 +11,7 @@
 <td valign="top" align="center" width="380">
 
 <h3>Today<a href="https://github.com/ricardonovelot/RememberPeople"> 🔗</a></h3>
-<p>Today is a curriculum project to create reminders</p>
+<p>Create and edit reminders</p>
 <a href="https://github.com/ricardonovelot/Today">
 <img src="https://github.com/user-attachments/assets/dc6b4786-dd8f-4daa-ade8-5e253d5e959b" width="200">
 </a>
