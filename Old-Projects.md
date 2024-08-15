@@ -194,7 +194,7 @@
 <!-- PROJECT 1 -->
 <td valign="top" align="center" width="380">
   
-<p width = "50"><h3>RememberPeople<a href="https://github.com/ricardonovelot/RememberPeople"> 🔗</a></h3></p>
+<p width="20"><h3>RememberPeople<a href="https://github.com/ricardonovelot/RememberPeople"> 🔗</a></h3></p>
 <p>RememberPeople helps users remember people names.</p>
 <a href="https://github.com/ricardonovelot/RememberPeople">
 <img src="https://github.com/ricardonovelot/RememberPeople/assets/84286086/12b87059-083d-453f-9048-e34e90fe2b4d" width="200">
