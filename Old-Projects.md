@@ -90,7 +90,7 @@
 
 <!-- PROJECT 5 -->
 <td valign="top" align="center" width="380">
-<h3>HabitTracking<a href="https://github.com/ricardonovelot/HabitTracking"> 🔗</a></h3>
+<h3>Habit Tracking<a href="https://github.com/ricardonovelot/HabitTracking"> 🔗</a></h3>
 <p>HabitTracking its a simple list to track progress.</p>
 <a href="https://github.com/ricardonovelot/HabitTracking">
 <img src="https://github.com/ricardonovelot/HabitTracking/assets/84286086/f017d372-8d37-4ad2-8480-7f9600f79d8d" width="200">
@@ -132,7 +132,7 @@
 <!-- PROJECT 1 -->
 <td valign="top" align="center" width="380"> 
 
-<h3>FriendFaces<a href="https://github.com/ricardonovelot/FriendFaces"> 🔗</a></h3>
+<h3>Friend Faces<a href="https://github.com/ricardonovelot/FriendFaces"> 🔗</a></h3>
 <p>FriendFaces retrieves data from the web and displays it in a user-friendly format.</p>
 <a href="https://github.com/ricardonovelot/FriendFaces">
 <img src="https://github.com/ricardonovelot/FriendFaces/assets/84286086/f37784ef-9b1b-4041-acd3-60b0e5da563a" width="200">
@@ -165,7 +165,7 @@
 <!-- PROJECT 3 -->
 <td valign="top" align="center" width="380">
 
-<h3>GuessTheFlag<a href="https://github.com/ricardonovelot/GuessTheFlag"> 🔗</a></h3>
+<h3>Guess The Flag<a href="https://github.com/ricardonovelot/GuessTheFlag"> 🔗</a></h3>
 <p>GuessTheFlag is a simple game to identify flags from different countries.</p>
 <a href="https://github.com/ricardonovelot/GuessTheFlag">
 <img src="https://github.com/ricardonovelot/GuessTheFlag/assets/84286086/e237c6ac-cfc0-4875-8cf2-3636e504adc6" width="200">
@@ -194,7 +194,7 @@
 <!-- PROJECT 1 -->
 <td valign="top" align="center" width="380">
   
-<h3>RememberPeople<a href="https://github.com/ricardonovelot/RememberPeople"> 🔗</a></h3>
+<h3>Remember People<a href="https://github.com/ricardonovelot/RememberPeople"> 🔗</a></h3>
 <p>RememberPeople helps users remember people names.</p>
 <a href="https://github.com/ricardonovelot/RememberPeople">
 <img src="https://github.com/ricardonovelot/RememberPeople/assets/84286086/12b87059-083d-453f-9048-e34e90fe2b4d" width="200">
