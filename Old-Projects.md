@@ -105,7 +105,7 @@
 
 <!-- PROJECT 6 -->
 <td valign="top" align="center" width="380">
-<h3>MoonShot<a href="https://github.com/ricardonovelot/Moonshot"> 🔗</a></h3>
+<h3>Moon Shot<a href="https://github.com/ricardonovelot/Moonshot"> 🔗</a></h3>
 <p>Moonshot showcase information on space missions and astronauts.</p>
 <a href="https://github.com/ricardonovelot/Moonshot">
 <img src="https://github.com/ricardonovelot/Moonshot/assets/84286086/63e9c612-1b0e-4d8c-b00b-a08ad800ab13" width="200">
@@ -148,7 +148,7 @@
 
 <!-- PROJECT 2 -->
 <td valign="top" align="center" width="380">
-<h3>BookWorms<a href="https://github.com/ricardonovelot/BookWorms"> 🔗</a></h3>
+<h3>Book Worms<a href="https://github.com/ricardonovelot/BookWorms"> 🔗</a></h3>
 <p>Bookworms track books you've read.</p>
 <a href="https://github.com/ricardonovelot/BookWorms">
 <img src="https://github.com/ricardonovelot/BookWorms/assets/84286086/b792b98e-516b-4435-b305-e1f33ece8049" width="200">
@@ -292,7 +292,7 @@
 <!-- PROJECT 3 -->
 <td valign="top" align="center" width="380">
 
-<h3>CupcakeCorner<a href="https://github.com/ricardonovelot/CupcakeCorner"> 🔗</a></h3>
+<h3>Cupcake Corner<a href="https://github.com/ricardonovelot/CupcakeCorner"> 🔗</a></h3>
 <p>Make custom orders over the internet.</p>
 <a href="https://github.com/ricardonovelot/CupcakeCorner">
 <img src="https://github.com/ricardonovelot/CupcakeCorner/assets/84286086/bb06f24a-c1c0-4747-9a6e-aab632c614ba" width="200">
