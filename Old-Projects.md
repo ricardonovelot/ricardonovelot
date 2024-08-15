@@ -74,7 +74,7 @@
 <!-- PROJECT 4 -->  
 <td valign="top" align="center" width="380">
   
-<h3>BetterRest<a href="https://github.com/ricardonovelot/BetterRest"> 🔗</a></h3>
+<h3>Better Rest<a href="https://github.com/ricardonovelot/BetterRest"> 🔗</a></h3>
 <p>Calculate a good night’s sleep for coffee drinkers</p>
 <a href="https://github.com/ricardonovelot/BetterRest">
 <img src="https://github.com/user-attachments/assets/c63ec7c8-a424-4837-8f02-e91b3c51ed27" width="200">
