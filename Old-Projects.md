@@ -374,7 +374,7 @@
 <td valign="top" align="center" width="380">
   
 <h3>FaceDetect<a href="https://github.com/ricardonovelot/FaceDetect"> 🔗</a></h3>  
-<p>Detect faces in a Photo with the Vision Framework</p>
+<p>Detect faces in a Photo</p>
 <a href="https://github.com/ricardonovelot/FaceDetect">
 <img src="https://github.com/user-attachments/assets/fd05eb2d-c7ed-4890-a9a8-9d4d4b296423" width="200">
 </a>
