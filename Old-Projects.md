@@ -376,7 +376,7 @@
 <h3>FaceDetect<a href="https://github.com/ricardonovelot/FaceDetect"> 🔗</a></h3>  
 <p>Detect faces in a Photo</p>
 <a href="https://github.com/ricardonovelot/FaceDetect">
-<img src="https://github.com/user-attachments/assets/fd05eb2d-c7ed-4890-a9a8-9d4d4b296423" width="200">
+<img src="https://github.com/user-attachments/assets/be0d957e-ce7d-42b9-a956-c45da370f05a" width="200">
 </a>
 <h4>Technical Highlights</h4>
 <p>
