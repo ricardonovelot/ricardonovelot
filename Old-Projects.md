@@ -367,14 +367,23 @@
 <a href="https://github.com/ricardonovelot/SwiftUIPhotoTagger">
 <img src="https://github.com/user-attachments/assets/23a68828-aea4-4681-8e7a-20e734472473" width="200">
 </a>
-  
+
 </td>
 
 <!-- PROJECT 2 -->  
 <td valign="top" align="center" width="380">
   
-
-
+<h3>FaceDetect<a href="https://github.com/ricardonovelot/FaceDetect"> 🔗</a></h3>  
+<p>Detect faces in a Photo with the Vision Framework</p>
+<a href="https://github.com/ricardonovelot/FaceDetect">
+<img src="https://github.com/user-attachments/assets/fd05eb2d-c7ed-4890-a9a8-9d4d4b296423" width="200">
+</a>
+<h4>Technical Highlights</h4>
+<p>
+  Vision Framework<br>
+  ViewModel<br>
+</p>
+<br>
 
 <!-- PROJECT 3 -->
 <td valign="top" align="center" width="380">
