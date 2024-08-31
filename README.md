@@ -4,7 +4,7 @@
 <!-- 🎨🎯👨🏻‍💻 -->
 <h3> Tech Stack</h3>
 <ul>
-  <li>Languages & Frameworks: Swift, C, SwiftUI, CoreData, SwiftData, MapKit, Core ML, Core Image, UIKit.</li>
+  <li>Languages & Frameworks: Swift, C, SwiftUI, CoreData, SwiftData, Vision, Core ML, Core Image, UIKit.</li>
   <li>Software & Tools: Xcode, Figma, Adobe CC, TestFlight </li>
   
 </ul>
