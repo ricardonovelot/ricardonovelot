@@ -2,6 +2,66 @@
 
 <h1>Curriculum Projects</h1>
 
+<!-- START TABLE 0 -->
+<table>
+<tr>
+<!-- START TABLE 0 -->
+  
+<!-- PROJECT 1 -->
+<td valign="top" align="center" width="380">
+
+<h3>TaggingText<a href="https://github.com/ricardonovelot/TaggingText"> 🔗</a></h3>  
+<p>Use Natural Language Processing to identify names, places, and organizations in text.</p>
+<a href="https://github.com/ricardonovelot/TaggingText">
+<img src="https://github.com/user-attachments/assets/d3561d2a-6907-4c7a-8c97-45ca39a69634" width="200">
+</a>
+<h4>Technical Highlights</h4>
+<p>
+  NaturalLanguage Framework<br>
+  <code>NLTagger()</code> <br>
+  MVVM<br>
+</p>
+<br>
+
+</td>
+
+<!-- PROJECT 2 -->  
+<td valign="top" align="center" width="380">
+  
+<h3>FaceDetect<a href="https://github.com/ricardonovelot/FaceDetect"> 🔗</a></h3>  
+<p>Detect faces in a Photo</p>
+<a href="https://github.com/ricardonovelot/FaceDetect">
+<img src="https://github.com/user-attachments/assets/be0d957e-ce7d-42b9-a956-c45da370f05a" width="200">
+</a>
+<h4>Technical Highlights</h4>
+<p>
+  Vision Framework<br>
+  <code>DetectFaceRectanglesRequest()</code><br>
+  MVVM
+</p>
+<br>
+
+<!-- PROJECT 3 -->
+
+<td valign="top" align="center" width="380">
+
+<h3>SwiftUIPhotoTagger<a href="https://github.com/ricardonovelot/SwiftUIPhotoTagger"> 🔗</a></h3>
+<p>Tag Photos with SwiftUI</p>
+<a href="https://github.com/ricardonovelot/SwiftUIPhotoTagger">
+<img src="https://github.com/user-attachments/assets/23a68828-aea4-4681-8e7a-20e734472473" width="200">
+</a>
+
+</td>
+
+<!-- END TABLE 0 -->
+</tr>
+
+</table>
+<!-- END TABLE 0 -->
+
+
+
+
 <!-- START TABLE 1 -->
 <table>
 <tr>
@@ -353,62 +413,6 @@
 </tr>
 
 </table>
-
-<!-- START TABLE 7 -->
-<table>
-<tr>
-<!-- START TABLE 7 -->
-  
-<!-- PROJECT 1 -->
-<td valign="top" align="center" width="380">
-
-<h3>SwiftUIPhotoTagger<a href="https://github.com/ricardonovelot/SwiftUIPhotoTagger"> 🔗</a></h3>
-<p>Tag Photos with SwiftUI</p>
-<a href="https://github.com/ricardonovelot/SwiftUIPhotoTagger">
-<img src="https://github.com/user-attachments/assets/23a68828-aea4-4681-8e7a-20e734472473" width="200">
-</a>
-
-</td>
-
-<!-- PROJECT 2 -->  
-<td valign="top" align="center" width="380">
-  
-<h3>FaceDetect<a href="https://github.com/ricardonovelot/FaceDetect"> 🔗</a></h3>  
-<p>Detect faces in a Photo</p>
-<a href="https://github.com/ricardonovelot/FaceDetect">
-<img src="https://github.com/user-attachments/assets/be0d957e-ce7d-42b9-a956-c45da370f05a" width="200">
-</a>
-<h4>Technical Highlights</h4>
-<p>
-  Vision Framework<br>
-  <code>DetectFaceRectanglesRequest()</code><br>
-  MVVM
-</p>
-<br>
-
-<!-- PROJECT 3 -->
-<td valign="top" align="center" width="380">
-
-<h3>TaggingText<a href="https://github.com/ricardonovelot/TaggingText"> 🔗</a></h3>  
-<p>Use Natural Language Processing to identify names, places, and organizations in text.</p>
-<a href="https://github.com/ricardonovelot/TaggingText">
-<img src="https://github.com/user-attachments/assets/d3561d2a-6907-4c7a-8c97-45ca39a69634" width="200">
-</a>
-<h4>Technical Highlights</h4>
-<p>
-  NaturalLanguage Framework<br>
-  SwiftUI <br>
-  MVVM<br>
-</p>
-<br>
-
-</td>
-
-<!-- END TABLE 7 -->
-</tr>
-
-</table>
-<!-- END TABLE 7 -->
 
 <br>
 <br>
