@@ -388,7 +388,18 @@
 <!-- PROJECT 3 -->
 <td valign="top" align="center" width="380">
 
-
+<h3>TaggingText<a href="https://github.com/ricardonovelot/TaggingText"> 🔗</a></h3>  
+<p>Use Natural Language Processing to identify names, places, and organizations in text.</p>
+<a href="https://github.com/ricardonovelot/TaggingText">
+<img src="https://github.com/user-attachments/assets/" width="200">
+</a>
+<h4>Technical Highlights</h4>
+<p>
+  NaturalLanguage Framework<br>
+  SwiftUI <br>
+  MVVM<br>
+</p>
+<br>
 
 
 </td>
