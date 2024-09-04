@@ -413,6 +413,44 @@
 </tr>
 
 </table>
+<!-- END TABLE 6 -->
+
+<!-- START TABLE 7 -->
+<table>
+<tr>
+<!-- START TABLE 7 -->
+  
+<!-- PROJECT 1 -->
+<td valign="top" align="center" width="380">
+
+<h3>RegexText<a href="https://github.com/ricardonovelot/RegexText"> 🔗</a></h3>
+<p>Recognize @mentions and #hashtags with Regex</p>
+<a href="https://github.com/ricardonovelot/RegexText">
+<img src="https://github.com/user-attachments/assets/8db8206e-8c66-4b29-81b9-90c61cb1569a" width="200">
+</a>
+  
+</td>
+
+<!-- PROJECT 2 -->  
+<td valign="top" align="center" width="380">
+  
+
+
+
+<!-- PROJECT 3 -->
+<td valign="top" align="center" width="380">
+
+
+
+
+</td>
+
+<!-- END TABLE 7 -->
+</tr>
+
+</table>
+<!-- END TABLE 7 -->
+
 
 <br>
 <br>
