@@ -257,7 +257,7 @@
 <td valign="top" align="center" width="380">
 
 <h3>Flashzilla<a href="https://github.com/ricardonovelot/Flashzilla"> 🔗</a></h3>
-<p>Learn things using flashcards</p>
+<p>Learn with flashcards</p>
 <a href="https://github.com/ricardonovelot/Flashzilla">
 <br>
 <br>
@@ -381,7 +381,8 @@
 <h4>Technical Highlights</h4>
 <p>
   Vision Framework<br>
-  ViewModel<br>
+  <code>DetectFaceRectanglesRequest()</code><br>
+  MVVM
 </p>
 <br>
 
@@ -391,7 +392,7 @@
 <h3>TaggingText<a href="https://github.com/ricardonovelot/TaggingText"> 🔗</a></h3>  
 <p>Use Natural Language Processing to identify names, places, and organizations in text.</p>
 <a href="https://github.com/ricardonovelot/TaggingText">
-<img src="https://github.com/user-attachments/assets/" width="200">
+<img src="https://github.com/user-attachments/assets/d3561d2a-6907-4c7a-8c97-45ca39a69634" width="200">
 </a>
 <h4>Technical Highlights</h4>
 <p>
@@ -400,7 +401,6 @@
   MVVM<br>
 </p>
 <br>
-
 
 </td>
 
