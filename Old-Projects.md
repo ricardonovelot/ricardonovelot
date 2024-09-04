@@ -424,7 +424,7 @@
 <td valign="top" align="center" width="380">
 
 <h3>RegexText<a href="https://github.com/ricardonovelot/RegexText"> 🔗</a></h3>
-<p>Recognize @mentions and #hashtags with Regex</p>
+<p>Recognize <code>@mentions</code> and <code>#hashtags</code> with Regex</p>
 <a href="https://github.com/ricardonovelot/RegexText">
 <img src="https://github.com/user-attachments/assets/8db8206e-8c66-4b29-81b9-90c61cb1569a" width="200">
 </a>
@@ -433,6 +433,7 @@
   <code>NSRegularExpression()</code><br>
   MVVM<br>
 </p>
+<br>
 </td>
 
 <!-- PROJECT 2 -->  
