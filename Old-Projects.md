@@ -428,7 +428,11 @@
 <a href="https://github.com/ricardonovelot/RegexText">
 <img src="https://github.com/user-attachments/assets/8db8206e-8c66-4b29-81b9-90c61cb1569a" width="200">
 </a>
-  
+<h4>Technical Highlights</h4>
+<p>
+  <code>NSRegularExpression()</code><br>
+  MVVM<br>
+</p>
 </td>
 
 <!-- PROJECT 2 -->  
