@@ -438,13 +438,24 @@
 
 <!-- PROJECT 2 -->  
 <td valign="top" align="center" width="380">
-  
+
+  <h3>Autocomplete Text<a href="https://github.com/ricardonovelot/WordAutoCompletion"> 🔗</a></h3>
+<p>Autocomplete TextField with SwiftUI</p>
+<a href="https://github.com/ricardonovelot/WordAutoCompletion">
+<img src="https://github.com/user-attachments/assets/265ec6db-ea8a-4285-929c-e893443eb8f4" width="200">
+</a>
+<h4>Technical Highlights</h4>
+<p>
+  Comparable conformance for Booleans<br>
+  Performance optimization
+</p>
+<br>
+</td>
 
 
 
 <!-- PROJECT 3 -->
 <td valign="top" align="center" width="380">
-
 
 
 
