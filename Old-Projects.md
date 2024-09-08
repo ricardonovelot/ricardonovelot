@@ -19,7 +19,6 @@
 <p>
   NaturalLanguage Framework<br>
   <code>NLTagger()</code> <br>
-  MVVM<br>
 </p>
 <br>
 
@@ -37,7 +36,6 @@
 <p>
   Vision Framework<br>
   <code>DetectFaceRectanglesRequest()</code><br>
-  MVVM
 </p>
 <br>
 
@@ -95,7 +93,6 @@
 </a>
 <h4>Technical Highlights</h4>
 <p>
-  MVVM<br>
   Wikipedia API<br>
   MapKit<br>
   Documents Directory
