@@ -428,7 +428,6 @@
 <h4>Technical Highlights</h4>
 <p>
   <code>NSRegularExpression()</code><br>
-  MVVM<br>
 </p>
 <br>
 </td>
