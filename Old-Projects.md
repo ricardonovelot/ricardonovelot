@@ -122,6 +122,67 @@
 </table>
 <!-- END TABLE 1 -->
 
+<!-- START TABLE 7 -->
+<table>
+<tr>
+<!-- START TABLE 7 -->
+  
+<!-- PROJECT 1 -->
+<td valign="top" align="center" width="380">
+
+<h3>RegexText<a href="https://github.com/ricardonovelot/RegexText"> 🔗</a></h3>
+<p>Recognize <code>@mentions</code> and <code>#hashtags</code> with Regex</p>
+<a href="https://github.com/ricardonovelot/RegexText">
+<img src="https://github.com/user-attachments/assets/8db8206e-8c66-4b29-81b9-90c61cb1569a" width="200">
+</a>
+<h4>Technical Highlights</h4>
+<p>
+  <code>NSRegularExpression()</code><br>
+</p>
+<br>
+</td>
+
+<!-- PROJECT 2 -->  
+<td valign="top" align="center" width="380">
+
+  <h3>Autocomplete Text<a href="https://github.com/ricardonovelot/WordAutoCompletion"> 🔗</a></h3>
+<p>Autocomplete TextField with SwiftUI</p>
+<a href="https://github.com/ricardonovelot/WordAutoCompletion">
+<img src="https://github.com/user-attachments/assets/265ec6db-ea8a-4285-929c-e893443eb8f4" width="200">
+</a>
+<h4>Technical Highlights</h4>
+<p>
+  Comparable conformance for Booleans<br>
+  Performance optimization
+</p>
+<br>
+</td>
+
+
+
+<!-- PROJECT 3 -->
+<td valign="top" align="center" width="380">
+
+  <h3>SwiftUI Share Extension<a href="https://github.com/ricardonovelot/CustomShareExtension_SwiftUI"> 🔗</a></h3>
+<p>Use the Share Sheet to save text from anywhere</p>
+<a href="https://github.com/ricardonovelot/CustomShareExtension_SwiftUI">
+<img src="https://github.com/user-attachments/assets/86998372-dd69-4874-9229-e962347ff67d" width="200">
+</a>
+<h4>Technical Highlights</h4>
+<p>
+  Social Framework<br>
+  Share Extension
+</p>
+<br>
+
+</td>
+
+<!-- END TABLE 7 -->
+</tr>
+
+</table>
+<!-- END TABLE 7 -->
+
 
 <!-- START TABLE 2 -->
 <table>
@@ -181,66 +242,7 @@
 </table>
 <!-- END TABLE 2 -->
 
-<!-- START TABLE 7 -->
-<table>
-<tr>
-<!-- START TABLE 7 -->
-  
-<!-- PROJECT 1 -->
-<td valign="top" align="center" width="380">
 
-<h3>RegexText<a href="https://github.com/ricardonovelot/RegexText"> 🔗</a></h3>
-<p>Recognize <code>@mentions</code> and <code>#hashtags</code> with Regex</p>
-<a href="https://github.com/ricardonovelot/RegexText">
-<img src="https://github.com/user-attachments/assets/8db8206e-8c66-4b29-81b9-90c61cb1569a" width="200">
-</a>
-<h4>Technical Highlights</h4>
-<p>
-  <code>NSRegularExpression()</code><br>
-</p>
-<br>
-</td>
-
-<!-- PROJECT 2 -->  
-<td valign="top" align="center" width="380">
-
-  <h3>Autocomplete Text<a href="https://github.com/ricardonovelot/WordAutoCompletion"> 🔗</a></h3>
-<p>Autocomplete TextField with SwiftUI</p>
-<a href="https://github.com/ricardonovelot/WordAutoCompletion">
-<img src="https://github.com/user-attachments/assets/265ec6db-ea8a-4285-929c-e893443eb8f4" width="200">
-</a>
-<h4>Technical Highlights</h4>
-<p>
-  Comparable conformance for Booleans<br>
-  Performance optimization
-</p>
-<br>
-</td>
-
-
-
-<!-- PROJECT 3 -->
-<td valign="top" align="center" width="380">
-
-  <h3>SwiftUI Share Extension<a href="https://github.com/ricardonovelot/CustomShareExtension_SwiftUI"> 🔗</a></h3>
-<p>Use the Share Sheet to save text from anywhere</p>
-<a href="https://github.com/ricardonovelot/CustomShareExtension_SwiftUI">
-<img src="https://github.com/user-attachments/assets/86998372-dd69-4874-9229-e962347ff67d" width="200">
-</a>
-<h4>Technical Highlights</h4>
-<p>
-  Social Framework<br>
-  Performance optimization
-</p>
-<br>
-
-</td>
-
-<!-- END TABLE 7 -->
-</tr>
-
-</table>
-<!-- END TABLE 7 -->
 
 <!-- START TABLE 3 -->
 <table>
