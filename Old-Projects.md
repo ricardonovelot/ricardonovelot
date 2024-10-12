@@ -164,7 +164,7 @@
 <td valign="top" align="center" width="380">
 
   <h3>SwiftUI Share Extension<a href="https://github.com/ricardonovelot/CustomShareExtension_SwiftUI"> 🔗</a></h3>
-<p>Use the Share Sheet to save text from anywhere</p>
+<p>Use the Share Sheet to save text from anywhere to the app</p>
 <a href="https://github.com/ricardonovelot/CustomShareExtension_SwiftUI">
 <img src="https://github.com/user-attachments/assets/86998372-dd69-4874-9229-e962347ff67d" width="200">
 </a>
@@ -483,7 +483,7 @@
 <!-- PROJECT 1 -->
 <td valign="top" align="center" width="380">
 
-  <h3>Save Images with Share Extension<a href="https://github.com/ricardonovelot/ShareExtension-Image_SwiftUI"> 🔗</a></h3>
+  <h3>Save Images<a href="https://github.com/ricardonovelot/ShareExtension-Image_SwiftUI"> 🔗</a></h3>
 <p>Use the Share Sheet to send an image from anywhere to the app</p>
 <a href="https://github.com/ricardonovelot/ShareExtension-Image_SwiftUI">
 <img src="https://github.com/user-attachments/assets/b4a4c1d3-4fef-453b-a87e-fb790c7a50aa" width="200">
