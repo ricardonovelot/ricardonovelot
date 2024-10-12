@@ -475,6 +475,48 @@
 </table>
 <!-- END TABLE 6 -->
 
+<!-- START TABLE 8 -->
+<table>
+<tr>
+<!-- START TABLE 8 -->
+  
+<!-- PROJECT 1 -->
+<td valign="top" align="center" width="380">
+
+  <h3>Save Images with Share Extension<a href="https://github.com/ricardonovelot/ShareExtension-Image_SwiftUI"> 🔗</a></h3>
+<p>Use the Share Sheet to send an image from anywhere to the app</p>
+<a href="https://github.com/ricardonovelot/ShareExtension-Image_SwiftUI">
+<img src="https://github.com/user-attachments/assets/b4a4c1d3-4fef-453b-a87e-fb790c7a50aa" width="200">
+</a>
+<h4>Technical Highlights</h4>
+<p>
+  Social Framework<br>
+  Share Extension
+</p>
+<br>
+
+</td>
+
+<!-- PROJECT 2 -->  
+<td valign="top" align="center" width="380">
+
+
+
+
+
+<!-- PROJECT 3 -->
+<td valign="top" align="center" width="380">
+
+
+
+</td>
+
+<!-- END TABLE 8 -->
+</tr>
+
+</table>
+<!-- END TABLE 8 -->
+
 
 
 <br>
