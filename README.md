@@ -44,7 +44,7 @@ Brand-Agnostic Component System<br>
 <a href="https://testflight.apple.com/join/NuON0fEq"><img src="https://github.com/user-attachments/assets/0926df5d-a3be-4109-bcce-3a72e078b4e1" width="32">‏‏</a> 
 </p>
 <a href="https://github.com/ricardonovelot/Names-">
-<img src="https://github.com/user-attachments/assets/3a4f9d10-0395-4a90-b206-b4af0f6c6f66" width="200">
+<img src="https://github.com/user-attachments/assets/3ad11e99-9b08-47c7-8be9-9860f90188db" width="200">
 </a>
 <h4>Technical Highlights</h4>
 <p>
