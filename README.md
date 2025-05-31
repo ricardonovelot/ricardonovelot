@@ -1,19 +1,53 @@
 <h2>Hi there!</h2>
 
 <p>I'm a Developer and Product Designer actively improving my skills in Swift and SwiftUI.</p>
-<!-- 🎨🎯👨🏻‍💻 -->
+
 <h3> Tech Stack</h3>
 <ul>
   <li>Languages & Frameworks: Swift, C, SwiftUI, CoreData, SwiftData, Vision, Core ML, Core Image, UIKit.</li>
   <li>Software & Tools: Xcode, Figma, Adobe CC, TestFlight </li>
-  
 </ul>
 
 <h3>Featured Projects</h3>
+
 <table>
 <tr>
-<!-- PROJECT 1 -->
 
+<!-- PROJECT 1 - DEMOS -->
+<td valign="top" align="center" width="380">
+
+<h3>Demos</h3>  
+<p>
+Demos is an internal iOS app built by the UX Design team at Whirlpool to explore and test high-fidelity design concepts.
+</p>
+<p>
+Created from the ground up, it replicates the actual product experience while giving us the flexibility to tweak and validate interface ideas through quick user tests and stakeholder reviews.
+</p>
+<p><strong>TestFlight</strong><br>This app is shared privately and won't be released on the App Store. <br> To request access, please reach out to <a href="mailto:ricardo_lopez3@whirlpool.com">ricardo_lopez3@whirlpool.com</a>.</p>
+
+<h4>Features</h4>
+<ul>
+<li>High-Fidelity Design Simulations</li>
+<li>Variant Testing for Layouts & Flows</li>
+<li>Private Distribution via TestFlight</li>
+<li>Built for UX Research & Validation</li>
+</ul>
+
+<h4>Technical Highlights</h4>
+<ul>
+<li>Custom Design System Architecture</li>
+<li>Brand-Agnostic Component System</li>
+<li>Advanced Animation & Transitions</li>
+</ul>
+
+<img src="https://github.com/user-attachments/assets/0262ec1b-1c6c-41c9-b6f9-1cc0e5462344" width="200">
+
+
+<p><strong>License</strong><br>This project is licensed for internal Whirlpool use and not open-source.</p>
+<br>
+</td>
+
+<!-- PROJECT 2 - NAMES -->
 <td valign="top" align="center" width="380">
 
 <h3>Names</h3>  
@@ -35,62 +69,14 @@ CloudKit<br>
 
 </td>
 
-<!-- PROJECT 2 -->
-
-<td valign="top" align="center" width="380">
-  
-<h3>San Pedro, Event Guide<a href="https://github.com/ricardonovelot/SanPedroEventGuide"></a></h3>  
-<p>Discover handpicked local events. San Pedro is a proof-of-concept demo.</p>
-<p>
-<a href="https://github.com/ricardonovelot/SanPedroEventGuide"><img src="https://github.com/user-attachments/assets/58372ca1-63d6-423c-a558-08cb18c68cfb" width="32">‏‏</a>
-</p>
-  <a href="https://github.com/ricardonovelot/SanPedroEventGuide">
-<img src="https://github.com/ricardonovelot/EventosSanPedro/assets/84286086/f582f6ef-5b37-4587-81c0-c827469adf5a" width="200">
-</a>
-<h4>Technical Highlights</h4>
-<p>
-  SwiftUI<br>
-  SwiftData
-</p>
-<br>
-
-</td>
-
-<!-- PROJECT 3 -->
-
-<td valign="center" align="center" width="240" >
-
-
+<!-- SEE MORE -->
+<td valign="center" align="center" width="240">
 <h3 align="center"><a href="https://github.com/ricardonovelot/ricardonovelot/blob/main/Old-Projects.md">See More<br>‎‎‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎Here!</a> ↩</h3>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<!--
-<h3>RememberPeople<a href="https://github.com/ricardonovelot/RememberPeople"> 🔗</a></h3>  
-
-<p>RememberPeople helps users remember people names.</p>
-<a href="https://github.com/ricardonovelot/RememberPeople">
-<img src="https://github.com/ricardonovelot/RememberPeople/assets/84286086/12b87059-083d-453f-9048-e34e90fe2b4d" width="200">
-</a>
-<h4>Technical Highlights</h4>
-<p>
-  CoreData<br>
-  PhotosUI<br>
-</p>
-<br>
--->
-
-
-
-
+<br><br><br><br><br><br>
 </td>
+
 </tr>
 </table>
-
 
 <table>
 <tr>
@@ -108,8 +94,6 @@ CloudKit<br>
     <a href="https://www.linkedin.com/in/ricardo-nlo/">LinkedIn</a> 
 </h6>
 <br>
-
 </td>
 </tr>
 </table>
-
