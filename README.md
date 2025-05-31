@@ -21,8 +21,8 @@
 Demos is an internal iOS app built by the UX Design team at Whirlpool to explore design concepts.
 </p>
 
-<a href="https://github.com/ricardonovelot/Names-">
-<img src="https://github.com/user-attachments/assets/0262ec1b-1c6c-41c9-b6f9-1cc0e5462344" width="200">
+<a href="https://github.com/ricardonovelot/Demos-">
+<img src="https://github.com/user-attachments/assets/3ad11e99-9b08-47c7-8be9-9860f90188db" width="200">
 </a>
 
 <h4>Technical Highlights</h4>
