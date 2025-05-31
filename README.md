@@ -18,7 +18,7 @@
 
 <h3>Demos</h3>  
 <p>
-Demos is an internal iOS app built by the UX Design team at Whirlpool to explore and test high-fidelity design concepts.
+Demos is an internal iOS app built by the UX Design team at Whirlpool to explore design concepts.
 </p>
 
 <a href="https://github.com/ricardonovelot/Names-">
