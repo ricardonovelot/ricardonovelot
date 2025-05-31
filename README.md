@@ -21,7 +21,7 @@
 Demos is an internal iOS app built by the UX Design team at Whirlpool to explore and test high-fidelity design concepts.
 </p>
 
-<a href="https://github.com/ricardonovelot/Names-Public"><img src="https://github.com/user-attachments/assets/0262ec1b-1c6c-41c9-b6f9-1cc0e5462344" width="32">‏‏</a>
+<a href="https://github.com/ricardonovelot/Demos-"><img src="https://github.com/user-attachments/assets/0262ec1b-1c6c-41c9-b6f9-1cc0e5462344" width="32">‏‏</a>
 
 <h4>Technical Highlights</h4>
 <ul>
@@ -38,11 +38,11 @@ Demos is an internal iOS app built by the UX Design team at Whirlpool to explore
 <h3>Names</h3>  
 <p>Capture contact notes. Names is a people-centered journal app.</p>
 <p>
-<a href="https://github.com/ricardonovelot/Names-Public"><img src="https://github.com/user-attachments/assets/58372ca1-63d6-423c-a558-08cb18c68cfb" width="32">‏‏</a>
+<a href="https://github.com/ricardonovelot/Names-"><img src="https://github.com/user-attachments/assets/58372ca1-63d6-423c-a558-08cb18c68cfb" width="32">‏‏</a>
 &nbsp;
 <a href="https://testflight.apple.com/join/NuON0fEq"><img src="https://github.com/user-attachments/assets/0926df5d-a3be-4109-bcce-3a72e078b4e1" width="32">‏‏</a> 
 </p>
-<a href="https://github.com/ricardonovelot/Names-Public">
+<a href="https://github.com/ricardonovelot/Names-">
 <img src="https://github.com/user-attachments/assets/3a4f9d10-0395-4a90-b206-b4af0f6c6f66" width="200">
 </a>
 <h4>Technical Highlights</h4>
