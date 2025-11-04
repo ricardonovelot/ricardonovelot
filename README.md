@@ -22,7 +22,7 @@ Demos is an internal iOS app built by the UX Design team to explore design conce
 </p>
 
 <a href="https://github.com/ricardonovelot/Demos-">
-<img src="https://github.com/user-attachments/assets/f539af4e-3784-4082-ad3d-7edf635a5ee1" width="200">
+<img src="https://github.com/user-attachments/assets/8d0f5a5b-7861-4eee-8d7b-2c0b2f489844" width="200">
 </a>
 
 <h4>Technical Highlights</h4>
@@ -31,7 +31,6 @@ Custom Design System Architecture<br>
 Brand-Agnostic Component System<br>
 </p>
 <br>
-
 
 <!-- PROJECT 2 - NAMES -->
 <td valign="top" align="center" width="380">
